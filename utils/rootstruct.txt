@@ -1,0 +1,3 @@
+Int_t packetSize; Int_t seqNum;Int_t timeStamp;Int_t triggerDelay;Int_t sampleOffset;Int_t column;Int_t row;Int_t useOffset;Int_t readSft;Int_t serialID;Int_t numBlocks;Int_t triggerMask;Int_t sampleOffset;Int_t partNumSamp;Int_t sampleDelay;Int_t staleData;Int_t numBlockDig;Int_t totNumSamples ;Int_t triggerDelay;
+
+packetSize:seqNum:timeStamp:triggerDelay:sampleOffset:column:row:useOffset:readSft:serialID:numBlocks:triggerMask:sampleOffset:partNumSamp:sampleDelay:staleData:numBlockDig:totNumSamples:triggerDelay:value

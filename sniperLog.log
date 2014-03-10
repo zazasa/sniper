@@ -1,0 +1,703 @@
+2013-11-21T11:48:59.625145 Write config file in: t5configfast_131121114859.csv
+2013-11-21T11:48:59.625724 Data folder changed:
+2013-11-21T11:48:59.640831 Creat new root file: .tempRun.root
+2013-11-21T11:49:11.153441 Binding the receive socket to port 8106 of 0.0.0.0
+2013-11-21T11:49:11.154221 Connection on port 8105 of 0.0.0.0
+2013-11-21T11:49:11.284989 Running on Board (serial code c40000123b9a7601) firmware version 00000000.
+2013-11-21T11:49:11.288435 Traceback (most recent call last):
+2013-11-21T11:49:11.289458 File "./sniper.py", line 164, in openConnection
+2013-11-21T11:49:11.290518 
+2013-11-21T11:49:11.291158 self.sr.updateStatus(self.si.readStatus())
+2013-11-21T11:49:11.295041 File "/home/salvo/Scrivania/DEV-PROJ/TARGET/1-SOFTWARE/2-SNIPER/src/sInterface.py", line 158, in readStatus
+2013-11-21T11:49:11.297040 
+2013-11-21T11:49:11.298243 "column"    : int(value[-9:-3],2),
+2013-11-21T11:49:11.299222 ValueError
+2013-11-21T11:49:11.299933 :
+2013-11-21T11:49:11.300521 invalid literal for int() with base 2: ''
+2013-11-21T11:49:11.301206 
+2013-11-21T11:49:36.986180 Binding the receive socket to port 8106 of 0.0.0.0
+2013-11-21T11:49:36.987461 Connection on port 8105 of 0.0.0.0
+2013-11-21T11:49:37.357134 Running on Board (serial code c40000123b9a7601) firmware version 00000000.
+2013-11-21T11:49:37.361338 Traceback (most recent call last):
+2013-11-21T11:49:37.362470 File "./sniper.py", line 164, in openConnection
+2013-11-21T11:49:37.363728 
+2013-11-21T11:49:37.364602 self.sr.updateStatus(self.si.readStatus())
+2013-11-21T11:49:37.365490 File "/home/salvo/Scrivania/DEV-PROJ/TARGET/1-SOFTWARE/2-SNIPER/src/sInterface.py", line 158, in readStatus
+2013-11-21T11:49:37.366630 
+2013-11-21T11:49:37.367605 "column"    : int(value[-9:-3],2),
+2013-11-21T11:49:37.368471 ValueError
+2013-11-21T11:49:37.369345 :
+2013-11-21T11:49:37.370119 invalid literal for int() with base 2: ''
+2013-11-21T11:49:37.370972 
+2013-11-21T11:52:25.750424 Write config file in: t5configfast_131121115225.csv
+2013-11-21T11:52:25.750970 Data folder changed:
+2013-11-21T11:52:25.762547 Creat new root file: .tempRun.root
+2013-11-28T17:59:23.341616 Errore lettura file di configurazione. First config loaded.
+2013-11-28T17:59:23.344239 Write config file in: t5configfast_131128175923.csv
+2013-11-28T17:59:23.344794 Data folder changed:
+2013-11-28T17:59:23.357127 Creat new root file: .tempRun.root
+2013-12-12T18:38:39.264514 Write config file in: t5configfast_131212183839.csv
+2013-12-12T18:38:39.265186 Data folder changed:
+2013-12-12T18:38:39.284031 Creat new root file: .tempRun.root
+2014-01-19T17:33:44.164201 Write config file in: t5configfast_140119173344.csv
+2014-01-19T17:33:44.164804 Data folder changed:
+2014-01-19T17:33:44.176102 Creat new root file: .tempRun.root
+2014-01-19T17:33:44.182340 Traceback (most recent call last):
+2014-01-19T17:33:44.182457 File "./sniper.py", line 394, in <module>
+2014-01-19T17:33:44.182571 
+2014-01-19T17:33:44.182633 myapp = sniper()
+2014-01-19T17:33:44.182698 File "./sniper.py", line 125, in __init__
+2014-01-19T17:33:44.182771 
+2014-01-19T17:33:44.182826 self.sg = SniperGraph()
+2014-01-19T17:33:44.182889 File "/home/salvo/Scrivania/DEV/TARGET/1-SOFTWARE/2-SNIPER/src/sGraph.py", line 39, in __init__
+2014-01-19T17:33:44.182961 
+2014-01-19T17:33:44.183015 self.mg = TMultiGraph()
+2014-01-19T17:33:44.183080 NameError
+2014-01-19T17:33:44.183135 :
+2014-01-19T17:33:44.183191 global name 'TMultiGraph' is not defined
+2014-01-19T17:33:44.183248 
+2014-01-19T17:35:01.534568 Write config file in: t5configfast_140119173501.csv
+2014-01-19T17:35:01.535086 Data folder changed:
+2014-01-19T17:35:01.545340 Creat new root file: .tempRun.root
+2014-01-19T17:35:01.551819 Traceback (most recent call last):
+2014-01-19T17:35:01.551952 File "./sniper.py", line 394, in <module>
+2014-01-19T17:35:01.552067 
+2014-01-19T17:35:01.552127 myapp = sniper()
+2014-01-19T17:35:01.552195 File "./sniper.py", line 125, in __init__
+2014-01-19T17:35:01.552272 
+2014-01-19T17:35:01.552327 self.sg = SniperGraph()
+2014-01-19T17:35:01.552394 File "/home/salvo/Scrivania/DEV/TARGET/1-SOFTWARE/2-SNIPER/src/sGraph.py", line 39, in __init__
+2014-01-19T17:35:01.552473 
+2014-01-19T17:35:01.552531 self.mg = TMultiGraph()
+2014-01-19T17:35:01.552599 NameError
+2014-01-19T17:35:01.552657 :
+2014-01-19T17:35:01.552715 global name 'TMultiGraph' is not defined
+2014-01-19T17:35:01.552775 
+2014-01-19T17:35:13.976173 Write config file in: t5configfast_140119173513.csv
+2014-01-19T17:35:13.976688 Data folder changed:
+2014-01-19T17:35:13.990838 Creat new root file: .tempRun.root
+2014-01-19T17:35:13.999420 Traceback (most recent call last):
+2014-01-19T17:35:13.999690 File "sniper.py", line 394, in <module>
+2014-01-19T17:35:13.999965 
+2014-01-19T17:35:14.000113 myapp = sniper()
+2014-01-19T17:35:14.000274 File "sniper.py", line 125, in __init__
+2014-01-19T17:35:14.000451 
+2014-01-19T17:35:14.000586 self.sg = SniperGraph()
+2014-01-19T17:35:14.000741 File "/home/salvo/Scrivania/DEV/TARGET/1-SOFTWARE/2-SNIPER/src/sGraph.py", line 39, in __init__
+2014-01-19T17:35:14.000910 
+2014-01-19T17:35:14.001034 self.mg = TMultiGraph()
+2014-01-19T17:35:14.001189 NameError
+2014-01-19T17:35:14.001325 :
+2014-01-19T17:35:14.001460 global name 'TMultiGraph' is not defined
+2014-01-19T17:35:14.001599 
+2014-01-19T17:35:47.237052 Write config file in: t5configfast_140119173547.csv
+2014-01-19T17:35:47.237551 Data folder changed:
+2014-01-19T17:35:47.251991 Creat new root file: .tempRun.root
+2014-01-19T17:35:47.258264 Traceback (most recent call last):
+2014-01-19T17:35:47.258433 File "sniper.py", line 394, in <module>
+2014-01-19T17:35:47.258573 
+2014-01-19T17:35:47.258659 myapp = sniper()
+2014-01-19T17:35:47.258749 File "sniper.py", line 125, in __init__
+2014-01-19T17:35:47.258847 
+2014-01-19T17:35:47.258926 self.sg = SniperGraph()
+2014-01-19T17:35:47.259014 File "/home/salvo/Scrivania/DEV/TARGET/1-SOFTWARE/2-SNIPER/src/sGraph.py", line 39, in __init__
+2014-01-19T17:35:47.259100 
+2014-01-19T17:35:47.259159 self.mg = TMultiGraph()
+2014-01-19T17:35:47.259230 NameError
+2014-01-19T17:35:47.259291 :
+2014-01-19T17:35:47.259353 global name 'TMultiGraph' is not defined
+2014-01-19T17:35:47.259432 
+2014-01-19T17:35:57.313780 Write config file in: t5configfast_140119173557.csv
+2014-01-19T17:35:57.314333 Data folder changed:
+2014-01-19T17:35:57.325029 Creat new root file: .tempRun.root
+2014-01-19T17:35:57.331289 Traceback (most recent call last):
+2014-01-19T17:35:57.331490 File "sniper.py", line 394, in <module>
+2014-01-19T17:35:57.331632 
+2014-01-19T17:35:57.331717 myapp = sniper()
+2014-01-19T17:35:57.331808 File "sniper.py", line 125, in __init__
+2014-01-19T17:35:57.331903 
+2014-01-19T17:35:57.331971 self.sg = SniperGraph()
+2014-01-19T17:35:57.332069 File "/home/salvo/Scrivania/DEV/TARGET/1-SOFTWARE/2-SNIPER/src/sGraph.py", line 39, in __init__
+2014-01-19T17:35:57.332158 
+2014-01-19T17:35:57.332216 self.mg = TMultiGraph()
+2014-01-19T17:35:57.332283 NameError
+2014-01-19T17:35:57.332345 :
+2014-01-19T17:35:57.332407 global name 'TMultiGraph' is not defined
+2014-01-19T17:35:57.332471 
+2014-01-19T17:36:01.417717 Write config file in: t5configfast_140119173601.csv
+2014-01-19T17:36:01.418252 Data folder changed:
+2014-01-19T17:36:01.428667 Creat new root file: .tempRun.root
+2014-01-19T17:36:01.435079 Traceback (most recent call last):
+2014-01-19T17:36:01.435219 File "sniper.py", line 394, in <module>
+2014-01-19T17:36:01.435348 
+2014-01-19T17:36:01.435481 myapp = sniper()
+2014-01-19T17:36:01.435566 File "sniper.py", line 125, in __init__
+2014-01-19T17:36:01.435657 
+2014-01-19T17:36:01.435726 self.sg = SniperGraph()
+2014-01-19T17:36:01.435804 File "/home/salvo/Scrivania/DEV/TARGET/1-SOFTWARE/2-SNIPER/src/sGraph.py", line 39, in __init__
+2014-01-19T17:36:01.435890 
+2014-01-19T17:36:01.435957 self.mg = TMultiGraph()
+2014-01-19T17:36:01.436035 NameError
+2014-01-19T17:36:01.436105 :
+2014-01-19T17:36:01.436174 global name 'TMultiGraph' is not defined
+2014-01-19T17:36:01.436244 
+2014-01-19T17:36:23.053414 Write config file in: t5configfast_140119173623.csv
+2014-01-19T17:36:23.053943 Data folder changed:
+2014-01-19T17:36:23.064419 Creat new root file: .tempRun.root
+2014-01-19T17:36:23.070558 Traceback (most recent call last):
+2014-01-19T17:36:23.070725 File "sniper.py", line 396, in <module>
+2014-01-19T17:36:23.070863 
+2014-01-19T17:36:23.070948 myapp = sniper()
+2014-01-19T17:36:23.071039 File "sniper.py", line 125, in __init__
+2014-01-19T17:36:23.071137 
+2014-01-19T17:36:23.071217 self.sg = SniperGraph()
+2014-01-19T17:36:23.071306 File "/home/salvo/Scrivania/DEV/TARGET/1-SOFTWARE/2-SNIPER/src/sGraph.py", line 39, in __init__
+2014-01-19T17:36:23.071418 
+2014-01-19T17:36:23.071494 self.mg = TMultiGraph()
+2014-01-19T17:36:23.071567 NameError
+2014-01-19T17:36:23.071629 :
+2014-01-19T17:36:23.071691 global name 'TMultiGraph' is not defined
+2014-01-19T17:36:23.071754 
+2014-01-19T17:37:35.781438 Write config file in: t5configfast_140119173735.csv
+2014-01-19T17:37:35.781958 Data folder changed:
+2014-01-19T17:37:35.792257 Creat new root file: .tempRun.root
+2014-01-19T17:37:35.798652 Traceback (most recent call last):
+2014-01-19T17:37:35.798810 File "./sniper.py", line 394, in <module>
+2014-01-19T17:37:35.798956 
+2014-01-19T17:37:35.799046 myapp = sniper()
+2014-01-19T17:37:35.799139 File "./sniper.py", line 125, in __init__
+2014-01-19T17:37:35.799228 
+2014-01-19T17:37:35.799285 self.sg = SniperGraph()
+2014-01-19T17:37:35.799350 File "/home/salvo/Scrivania/DEV/TARGET/1-SOFTWARE/2-SNIPER/src/sGraph.py", line 39, in __init__
+2014-01-19T17:37:35.799458 
+2014-01-19T17:37:35.799561 self.mg = TMultiGraph()
+2014-01-19T17:37:35.799657 NameError
+2014-01-19T17:37:35.799714 :
+2014-01-19T17:37:35.799772 global name 'TMultiGraph' is not defined
+2014-01-19T17:37:35.799830 
+2014-01-19T17:37:50.596424 Write config file in: t5configfast_140119173750.csv
+2014-01-19T17:37:50.596995 Data folder changed:
+2014-01-19T17:37:50.610989 Creat new root file: .tempRun.root
+2014-01-19T17:37:50.617630 Traceback (most recent call last):
+2014-01-19T17:37:50.617778 File "sniper.py", line 394, in <module>
+2014-01-19T17:37:50.617918 
+2014-01-19T17:37:50.617993 myapp = sniper()
+2014-01-19T17:37:50.618098 File "sniper.py", line 125, in __init__
+2014-01-19T17:37:50.618192 
+2014-01-19T17:37:50.618259 self.sg = SniperGraph()
+2014-01-19T17:37:50.618352 File "/home/salvo/Scrivania/DEV/TARGET/1-SOFTWARE/2-SNIPER/src/sGraph.py", line 39, in __init__
+2014-01-19T17:37:50.618434 
+2014-01-19T17:37:50.618490 self.mg = TMultiGraph()
+2014-01-19T17:37:50.618556 NameError
+2014-01-19T17:37:50.618626 :
+2014-01-19T17:37:50.618695 global name 'TMultiGraph' is not defined
+2014-01-19T17:37:50.618774 
+2014-01-19T17:44:13.288591 Write config file in: t5configfast_140119174413.csv
+2014-01-19T17:44:13.289126 Data folder changed:
+2014-01-19T17:44:13.299510 Creat new root file: .tempRun.root
+2014-01-19T17:44:13.305805 Traceback (most recent call last):
+2014-01-19T17:44:13.305930 File "./sniper.py", line 394, in <module>
+2014-01-19T17:44:13.306048 
+2014-01-19T17:44:13.306112 myapp = sniper()
+2014-01-19T17:44:13.306181 File "./sniper.py", line 125, in __init__
+2014-01-19T17:44:13.306257 
+2014-01-19T17:44:13.306344 self.sg = SniperGraph()
+2014-01-19T17:44:13.306420 File "/home/salvo/Scrivania/DEV/TARGET/1-SOFTWARE/2-SNIPER/src/sGraph.py", line 39, in __init__
+2014-01-19T17:44:13.306495 
+2014-01-19T17:44:13.306549 self.mg = TMultiGraph()
+2014-01-19T17:44:13.306616 NameError
+2014-01-19T17:44:13.306675 :
+2014-01-19T17:44:13.306733 global name 'TMultiGraph' is not defined
+2014-01-19T17:44:13.306793 
+2014-01-19T17:45:01.995829 Write config file in: t5configfast_140119174501.csv
+2014-01-19T17:45:01.996353 Data folder changed:
+2014-01-19T17:45:02.006810 Creat new root file: .tempRun.root
+2014-01-19T17:45:02.012989 Traceback (most recent call last):
+2014-01-19T17:45:02.013114 File "sniper.py", line 394, in <module>
+2014-01-19T17:45:02.013232 
+2014-01-19T17:45:02.013296 myapp = sniper()
+2014-01-19T17:45:02.013366 File "sniper.py", line 125, in __init__
+2014-01-19T17:45:02.013442 
+2014-01-19T17:45:02.013501 self.sg = SniperGraph()
+2014-01-19T17:45:02.013570 File "/home/salvo/Scrivania/DEV/TARGET/1-SOFTWARE/2-SNIPER/src/sGraph.py", line 39, in __init__
+2014-01-19T17:45:02.013645 
+2014-01-19T17:45:02.013702 self.mg = TMultiGraph()
+2014-01-19T17:45:02.013777 NameError
+2014-01-19T17:45:02.013837 :
+2014-01-19T17:45:02.013896 global name 'TMultiGraph' is not defined
+2014-01-19T17:45:02.013955 
+2014-01-19T17:45:16.765927 Traceback (most recent call last):
+2014-01-19T17:45:16.766236 File "<stdin>", line 1, in <module>
+2014-01-19T17:45:16.766347 NameError
+2014-01-19T17:45:16.766415 :
+2014-01-19T17:45:16.766480 name 'myapp' is not defined
+2014-01-19T17:45:16.766542 
+2014-01-19T17:45:20.775865 Traceback (most recent call last):
+2014-01-19T17:45:20.776125 File "<stdin>", line 1, in <module>
+2014-01-19T17:45:20.776236 NameError
+2014-01-19T17:45:20.776303 :
+2014-01-19T17:45:20.776367 name 'myapp' is not defined
+2014-01-19T17:45:20.776430 
+2014-01-19T17:45:33.626553 Write config file in: t5configfast_140119174533.csv
+2014-01-19T17:45:33.627066 Data folder changed:
+2014-01-19T17:45:33.641314 Creat new root file: .tempRun.root
+2014-01-19T17:45:33.648216 Traceback (most recent call last):
+2014-01-19T17:45:33.648663 File "sniper.py", line 394, in <module>
+2014-01-19T17:45:33.649155 
+2014-01-19T17:45:33.649445 myapp = sniper()
+2014-01-19T17:45:33.649789 File "sniper.py", line 125, in __init__
+2014-01-19T17:45:33.650111 
+2014-01-19T17:45:33.650344 self.sg = SniperGraph()
+2014-01-19T17:45:33.650613 File "/home/salvo/Scrivania/DEV/TARGET/1-SOFTWARE/2-SNIPER/src/sGraph.py", line 39, in __init__
+2014-01-19T17:45:33.650907 
+2014-01-19T17:45:33.651134 self.mg = TMultiGraph()
+2014-01-19T17:45:33.651424 NameError
+2014-01-19T17:45:33.651776 :
+2014-01-19T17:45:33.652034 global name 'TMultiGraph' is not defined
+2014-01-19T17:45:33.652288 
+2014-01-19T17:47:04.251948 Write config file in: t5configfast_140119174704.csv
+2014-01-19T17:47:04.252450 Data folder changed:
+2014-01-19T17:47:04.263302 Creat new root file: .tempRun.root
+2014-01-19T17:47:04.270395 Traceback (most recent call last):
+2014-01-19T17:47:04.270519 File "sniper.py", line 394, in <module>
+2014-01-19T17:47:04.270653 
+2014-01-19T17:47:04.270726 myapp = sniper()
+2014-01-19T17:47:04.270804 File "sniper.py", line 125, in __init__
+2014-01-19T17:47:04.270887 
+2014-01-19T17:47:04.270948 self.sg = SniperGraph()
+2014-01-19T17:47:04.271019 File "/home/salvo/Scrivania/DEV/TARGET/1-SOFTWARE/2-SNIPER/src/sGraph.py", line 39, in __init__
+2014-01-19T17:47:04.271097 
+2014-01-19T17:47:04.271157 self.mg = TMultiGraph()
+2014-01-19T17:47:04.271228 NameError
+2014-01-19T17:47:04.271290 :
+2014-01-19T17:47:04.271352 global name 'TMultiGraph' is not defined
+2014-01-19T17:47:04.271421 
+2014-01-19T17:47:17.884729 Traceback (most recent call last):
+2014-01-19T17:47:17.884997 File "<stdin>", line 1, in <module>
+2014-01-19T17:47:17.885105 NameError
+2014-01-19T17:47:17.885173 :
+2014-01-19T17:47:17.885235 name 'myapp' is not defined
+2014-01-19T17:47:17.885297 
+2014-01-19T17:47:24.076703 Traceback (most recent call last):
+2014-01-19T17:47:24.076930 File "<stdin>", line 1, in <module>
+2014-01-19T17:47:24.077040 NameError
+2014-01-19T17:47:24.077103 :
+2014-01-19T17:47:24.077164 name 'myapp' is not defined
+2014-01-19T17:47:24.077221 
+2014-01-19T17:47:27.291789 Traceback (most recent call last):
+2014-01-19T17:47:27.292010 File "<stdin>", line 1, in <module>
+2014-01-19T17:47:27.292120 NameError
+2014-01-19T17:47:27.292188 :
+2014-01-19T17:47:27.292251 name 'myapp' is not defined
+2014-01-19T17:47:27.292313 
+2014-01-19T17:47:30.594144 
+2014-01-19T17:48:03.744313 Write config file in: t5configfast_140119174803.csv
+2014-01-19T17:48:03.744793 Data folder changed:
+2014-01-19T17:48:03.755220 Creat new root file: .tempRun.root
+2014-01-19T17:48:03.761268 Traceback (most recent call last):
+2014-01-19T17:48:03.761391 File "sniper.py", line 394, in <module>
+2014-01-19T17:48:03.761507 
+2014-01-19T17:48:03.761568 myapp = sniper()
+2014-01-19T17:48:03.761633 File "sniper.py", line 125, in __init__
+2014-01-19T17:48:03.761705 
+2014-01-19T17:48:03.761759 self.sg = SniperGraph()
+2014-01-19T17:48:03.761820 File "/home/salvo/Scrivania/DEV/TARGET/1-SOFTWARE/2-SNIPER/src/sGraph.py", line 39, in __init__
+2014-01-19T17:48:03.761889 
+2014-01-19T17:48:03.761941 self.mg = TMultiGraph()
+2014-01-19T17:48:03.762014 NameError
+2014-01-19T17:48:03.762069 :
+2014-01-19T17:48:03.762123 global name 'TMultiGraph' is not defined
+2014-01-19T17:48:03.762177 
+2014-01-19T17:48:04.886939 
+2014-01-19T17:55:25.734725 Write config file in: t5configfast_140119175525.csv
+2014-01-19T17:55:25.735327 Data folder changed:
+2014-01-19T17:55:25.749943 Creat new root file: .tempRun.root
+2014-01-19T17:55:25.756632 Traceback (most recent call last):
+2014-01-19T17:55:25.756796 File "sniper.py", line 394, in <module>
+2014-01-19T17:55:25.756920 
+2014-01-19T17:55:25.756983 myapp = sniper()
+2014-01-19T17:55:25.757053 File "sniper.py", line 125, in __init__
+2014-01-19T17:55:25.757133 
+2014-01-19T17:55:25.757192 self.sg = SniperGraph()
+2014-01-19T17:55:25.757262 File "/home/salvo/Scrivania/DEV/TARGET/1-SOFTWARE/2-SNIPER/src/sGraph.py", line 39, in __init__
+2014-01-19T17:55:25.757339 
+2014-01-19T17:55:25.757395 self.mg = TMultiGraph()
+2014-01-19T17:55:25.757461 NameError
+2014-01-19T17:55:25.757522 :
+2014-01-19T17:55:25.757583 global name 'TMultiGraph' is not defined
+2014-01-19T17:55:25.757645 
+2014-01-19T17:55:34.800732 
+2014-01-19T17:57:25.263994 Write config file in: t5configfast_140119175725.csv
+2014-01-19T17:57:25.264611 Data folder changed:
+2014-01-19T17:57:25.279368 Creat new root file: .tempRun.root
+2014-01-19T17:57:25.288286 Traceback (most recent call last):
+2014-01-19T17:57:25.288489 File "sniper.py", line 394, in <module>
+2014-01-19T17:57:25.288617 
+2014-01-19T17:57:25.288684 myapp = sniper()
+2014-01-19T17:57:25.288754 File "sniper.py", line 125, in __init__
+2014-01-19T17:57:25.288832 
+2014-01-19T17:57:25.288894 self.sg = SniperGraph()
+2014-01-19T17:57:25.288967 File "/home/salvo/Scrivania/DEV/TARGET/1-SOFTWARE/2-SNIPER/src/sGraph.py", line 39, in __init__
+2014-01-19T17:57:25.289046 
+2014-01-19T17:57:25.289102 self.mg = TMultiGraph()
+2014-01-19T17:57:25.289174 NameError
+2014-01-19T17:57:25.289233 :
+2014-01-19T17:57:25.289290 global name 'TMultiGraph' is not defined
+2014-01-19T17:57:25.289349 
+2014-01-19T17:57:32.024777 
+2014-01-19T17:57:41.744311 Write config file in: t5configfast_140119175741.csv
+2014-01-19T17:57:41.744776 Data folder changed:
+2014-01-19T17:57:41.755337 Creat new root file: .tempRun.root
+2014-01-19T17:57:41.762191 Traceback (most recent call last):
+2014-01-19T17:57:41.762360 File "sniper.py", line 394, in <module>
+2014-01-19T17:57:41.762501 
+2014-01-19T17:57:41.762566 myapp = sniper()
+2014-01-19T17:57:41.762636 File "sniper.py", line 125, in __init__
+2014-01-19T17:57:41.762714 
+2014-01-19T17:57:41.762772 self.sg = SniperGraph()
+2014-01-19T17:57:41.762852 File "/home/salvo/Scrivania/DEV/TARGET/1-SOFTWARE/2-SNIPER/src/sGraph.py", line 39, in __init__
+2014-01-19T17:57:41.762948 
+2014-01-19T17:57:41.763017 self.mg = TMultiGraph()
+2014-01-19T17:57:41.763088 NameError
+2014-01-19T17:57:41.763148 :
+2014-01-19T17:57:41.763209 global name 'TMultiGraph' is not defined
+2014-01-19T17:57:41.763271 
+2014-01-19T17:58:59.196060 Write config file in: t5configfast_140119175859.csv
+2014-01-19T17:58:59.196709 Data folder changed:
+2014-01-19T17:58:59.207910 Creat new root file: .tempRun.root
+2014-01-19T17:58:59.214330 Traceback (most recent call last):
+2014-01-19T17:58:59.214473 File "<stdin>", line 1, in <module>
+2014-01-19T17:58:59.214590 File "sniper.py", line 125, in __init__
+2014-01-19T17:58:59.214671 
+2014-01-19T17:58:59.214731 self.sg = SniperGraph()
+2014-01-19T17:58:59.214797 File "/home/salvo/Scrivania/DEV/TARGET/1-SOFTWARE/2-SNIPER/src/sGraph.py", line 39, in __init__
+2014-01-19T17:58:59.214869 
+2014-01-19T17:58:59.214924 self.mg = TMultiGraph()
+2014-01-19T17:58:59.214990 NameError
+2014-01-19T17:58:59.215047 :
+2014-01-19T17:58:59.215122 global name 'TMultiGraph' is not defined
+2014-01-19T17:58:59.215224 
+2014-01-19T17:59:02.453561 Traceback (most recent call last):
+2014-01-19T17:59:02.453802 File "<stdin>", line 1, in <module>
+2014-01-19T17:59:02.453946 NameError
+2014-01-19T17:59:02.454059 :
+2014-01-19T17:59:02.454154 name 'myapp' is not defined
+2014-01-19T17:59:02.454218 
+2014-01-19T17:59:43.057748 Write config file in: t5configfast_140119175943.csv
+2014-01-19T17:59:43.058333 Data folder changed:
+2014-01-19T17:59:43.072387 Creat new root file: .tempRun.root
+2014-01-19T17:59:43.079105 Traceback (most recent call last):
+2014-01-19T17:59:43.079302 File "sniper.py", line 394, in <module>
+2014-01-19T17:59:43.079432 
+2014-01-19T17:59:43.079499 myapp = sniper()
+2014-01-19T17:59:43.079570 File "sniper.py", line 125, in __init__
+2014-01-19T17:59:43.079650 
+2014-01-19T17:59:43.079730 self.sg = SniperGraph()
+2014-01-19T17:59:43.079800 File "/home/salvo/Scrivania/DEV/TARGET/1-SOFTWARE/2-SNIPER/src/sGraph.py", line 39, in __init__
+2014-01-19T17:59:43.079888 
+2014-01-19T17:59:43.079945 self.mg = TMultiGraph()
+2014-01-19T17:59:43.080014 NameError
+2014-01-19T17:59:43.080073 :
+2014-01-19T17:59:43.080162 global name 'TMultiGraph' is not defined
+2014-01-19T17:59:43.080238 
+2014-01-19T17:59:44.072751 
+2014-01-19T17:59:48.533461 Write config file in: t5configfast_140119175948.csv
+2014-01-19T17:59:48.534000 Data folder changed:
+2014-01-19T17:59:48.547097 Creat new root file: .tempRun.root
+2014-01-19T17:59:48.554625 Traceback (most recent call last):
+2014-01-19T17:59:48.554815 File "./sniper.py", line 394, in <module>
+2014-01-19T17:59:48.554941 
+2014-01-19T17:59:48.555011 myapp = sniper()
+2014-01-19T17:59:48.555084 File "./sniper.py", line 125, in __init__
+2014-01-19T17:59:48.555164 
+2014-01-19T17:59:48.555224 self.sg = SniperGraph()
+2014-01-19T17:59:48.555295 File "/home/salvo/Scrivania/DEV/TARGET/1-SOFTWARE/2-SNIPER/src/sGraph.py", line 39, in __init__
+2014-01-19T17:59:48.555373 
+2014-01-19T17:59:48.555439 self.mg = TMultiGraph()
+2014-01-19T17:59:48.555508 NameError
+2014-01-19T17:59:48.555570 :
+2014-01-19T17:59:48.555672 global name 'TMultiGraph' is not defined
+2014-01-19T17:59:48.555747 
+2014-01-19T18:03:10.517505 Write config file in: t5configfast_140119180310.csv
+2014-01-19T18:03:10.518292 Data folder changed:
+2014-01-19T18:03:10.528474 Creat new root file: .tempRun.root
+2014-01-19T18:03:10.534955 Traceback (most recent call last):
+2014-01-19T18:03:10.535078 File "./sniper.py", line 394, in <module>
+2014-01-19T18:03:10.535191 
+2014-01-19T18:03:10.535251 myapp = sniper()
+2014-01-19T18:03:10.535322 File "./sniper.py", line 125, in __init__
+2014-01-19T18:03:10.535394 
+2014-01-19T18:03:10.535447 self.sg = SniperGraph()
+2014-01-19T18:03:10.535508 File "/home/salvo/Scrivania/DEV/TARGET/1-SOFTWARE/2-SNIPER/src/sGraph.py", line 39, in __init__
+2014-01-19T18:03:10.535714 
+2014-01-19T18:03:10.535772 self.mg = TMultiGraph()
+2014-01-19T18:03:10.535835 NameError
+2014-01-19T18:03:10.535889 :
+2014-01-19T18:03:10.535942 global name 'TMultiGraph' is not defined
+2014-01-19T18:03:10.535996 
+2014-01-19T18:06:14.447756 Write config file in: t5configfast_140119180614.csv
+2014-01-19T18:06:14.448248 Data folder changed:
+2014-01-19T18:06:14.458574 Creat new root file: .tempRun.root
+2014-01-19T18:06:14.464836 Traceback (most recent call last):
+2014-01-19T18:06:14.464955 File "./sniper.py", line 394, in <module>
+2014-01-19T18:06:14.465073 
+2014-01-19T18:06:14.465138 myapp = sniper()
+2014-01-19T18:06:14.465208 File "./sniper.py", line 125, in __init__
+2014-01-19T18:06:14.465285 
+2014-01-19T18:06:14.465344 self.sg = SniperGraph()
+2014-01-19T18:06:14.465412 File "/home/salvo/Scrivania/DEV/TARGET/1-SOFTWARE/2-SNIPER/src/sGraph.py", line 39, in __init__
+2014-01-19T18:06:14.465487 
+2014-01-19T18:06:14.465545 self.mg = TMultiGraph()
+2014-01-19T18:06:14.465614 NameError
+2014-01-19T18:06:14.465674 :
+2014-01-19T18:06:14.465735 global name 'TMultiGraph' is not defined
+2014-01-19T18:06:14.465796 
+2014-01-19T18:06:45.152291 Traceback (most recent call last):
+2014-01-19T18:06:45.152465 File "./sniper.py", line 395, in <module>
+2014-01-19T18:06:45.152586 
+2014-01-19T18:06:45.152648 myapp = sniper()
+2014-01-19T18:06:45.152715 File "./sniper.py", line 95, in __init__
+2014-01-19T18:06:45.152787 
+2014-01-19T18:06:45.152842 self.initGui() #loadsetting,uiconfig,loadt5configfile
+2014-01-19T18:06:45.152906 File "/home/salvo/Scrivania/DEV/TARGET/1-SOFTWARE/2-SNIPER/src/sGuiHandler.py", line 13, in initGui
+2014-01-19T18:06:45.152984 
+2014-01-19T18:06:45.153040 self.loadSettings()
+2014-01-19T18:06:45.153101 File "/home/salvo/Scrivania/DEV/TARGET/1-SOFTWARE/2-SNIPER/src/sGuiHandler.py", line 23, in loadSettings
+2014-01-19T18:06:45.153169 
+2014-01-19T18:06:45.153224 self.ui.localIPBox.setText(self.settings["localIP"][0])
+2014-01-19T18:06:45.153287 KeyError
+2014-01-19T18:06:45.153342 :
+2014-01-19T18:06:45.153394 'localIP'
+2014-01-19T18:06:45.153446 
+2014-01-19T18:08:02.581530 Traceback (most recent call last):
+2014-01-19T18:08:02.581697 File "./sniper.py", line 393, in <module>
+2014-01-19T18:08:02.581817 
+2014-01-19T18:08:02.581882 myapp = sniper()
+2014-01-19T18:08:02.581951 File "./sniper.py", line 93, in __init__
+2014-01-19T18:08:02.582027 
+2014-01-19T18:08:02.582132 self.initGui() #loadsetting,uiconfig,loadt5configfile
+2014-01-19T18:08:02.582202 File "/home/salvo/Scrivania/DEV/TARGET/1-SOFTWARE/2-SNIPER/src/sGuiHandler.py", line 14, in initGui
+2014-01-19T18:08:02.582273 
+2014-01-19T18:08:02.582329 self.loadSettings()
+2014-01-19T18:08:02.582394 File "/home/salvo/Scrivania/DEV/TARGET/1-SOFTWARE/2-SNIPER/src/sGuiHandler.py", line 26, in loadSettings
+2014-01-19T18:08:02.582462 
+2014-01-19T18:08:02.582519 self.ui.localIPBox.setText(self.settings["localIP"][0])
+2014-01-19T18:08:02.582585 KeyError
+2014-01-19T18:08:02.582645 :
+2014-01-19T18:08:02.582703 'localIP'
+2014-01-19T18:08:02.582761 
+2014-01-19T18:08:09.176716 Traceback (most recent call last):
+2014-01-19T18:08:09.176872 File "./sniper.py", line 393, in <module>
+2014-01-19T18:08:09.176993 
+2014-01-19T18:08:09.177059 myapp = sniper()
+2014-01-19T18:08:09.177129 File "./sniper.py", line 93, in __init__
+2014-01-19T18:08:09.177205 
+2014-01-19T18:08:09.177264 self.initGui() #loadsetting,uiconfig,loadt5configfile
+2014-01-19T18:08:09.177331 File "/home/salvo/Scrivania/DEV/TARGET/1-SOFTWARE/2-SNIPER/src/sGuiHandler.py", line 14, in initGui
+2014-01-19T18:08:09.177403 
+2014-01-19T18:08:09.177461 self.loadSettings()
+2014-01-19T18:08:09.177526 File "/home/salvo/Scrivania/DEV/TARGET/1-SOFTWARE/2-SNIPER/src/sGuiHandler.py", line 26, in loadSettings
+2014-01-19T18:08:09.177596 
+2014-01-19T18:08:09.177654 self.ui.localIPBox.setText(self.settings["localIP"][0])
+2014-01-19T18:08:09.177731 KeyError
+2014-01-19T18:08:09.177796 :
+2014-01-19T18:08:09.177860 'localIP'
+2014-01-19T18:08:09.177922 
+2014-01-19T18:08:15.875363 Traceback (most recent call last):
+2014-01-19T18:08:15.875545 File "./sniper.py", line 393, in <module>
+2014-01-19T18:08:15.875660 
+2014-01-19T18:08:15.875720 myapp = sniper()
+2014-01-19T18:08:15.875785 File "./sniper.py", line 112, in __init__
+2014-01-19T18:08:15.875858 
+2014-01-19T18:08:15.875913 self.sr.setFileTag(self.settings["fileTag"])
+2014-01-19T18:08:15.875978 KeyError
+2014-01-19T18:08:15.876036 :
+2014-01-19T18:08:15.876090 'fileTag'
+2014-01-19T18:08:15.876144 
+2014-01-19T18:08:25.036600 Traceback (most recent call last):
+2014-01-19T18:08:25.036770 File "./sniper.py", line 393, in <module>
+2014-01-19T18:08:25.036893 
+2014-01-19T18:08:25.036956 myapp = sniper()
+2014-01-19T18:08:25.037025 File "./sniper.py", line 112, in __init__
+2014-01-19T18:08:25.037103 
+2014-01-19T18:08:25.037160 self.sr.setFileTag(self.settings["fileTag"])
+2014-01-19T18:08:25.037226 KeyError
+2014-01-19T18:08:25.037287 :
+2014-01-19T18:08:25.037346 'fileTag'
+2014-01-19T18:08:25.037406 
+2014-01-19T18:08:30.999815 Traceback (most recent call last):
+2014-01-19T18:08:30.999992 File "./sniper.py", line 393, in <module>
+2014-01-19T18:08:31.000114 
+2014-01-19T18:08:31.000178 myapp = sniper()
+2014-01-19T18:08:31.000247 File "./sniper.py", line 112, in __init__
+2014-01-19T18:08:31.000323 
+2014-01-19T18:08:31.000382 self.sr.setFileTag(self.settings["fileTag"])
+2014-01-19T18:08:31.000450 KeyError
+2014-01-19T18:08:31.000511 :
+2014-01-19T18:08:31.000569 'fileTag'
+2014-01-19T18:08:31.000627 
+2014-01-19T18:09:10.619808 Traceback (most recent call last):
+2014-01-19T18:09:10.619958 File "./sniper.py", line 394, in <module>
+2014-01-19T18:09:10.620083 
+2014-01-19T18:09:10.620151 myapp = sniper()
+2014-01-19T18:09:10.620231 File "./sniper.py", line 94, in __init__
+2014-01-19T18:09:10.620311 
+2014-01-19T18:09:10.620373 self.initGui() #loadsetting,uiconfig,loadt5configfile
+2014-01-19T18:09:10.620445 File "/home/salvo/Scrivania/DEV/TARGET/1-SOFTWARE/2-SNIPER/src/sGuiHandler.py", line 16, in initGui
+2014-01-19T18:09:10.620517 
+2014-01-19T18:09:10.620578 self.loadSettings()
+2014-01-19T18:09:10.620647 File "/home/salvo/Scrivania/DEV/TARGET/1-SOFTWARE/2-SNIPER/src/sGuiHandler.py", line 28, in loadSettings
+2014-01-19T18:09:10.620720 
+2014-01-19T18:09:10.620780 self.ui.localIPBox.setText(self.settings["localIP"][0])
+2014-01-19T18:09:10.620851 KeyError
+2014-01-19T18:09:10.620911 :
+2014-01-19T18:09:10.620972 'localIP'
+2014-01-19T18:09:10.621033 
+2014-01-19T18:09:30.022921 Traceback (most recent call last):
+2014-01-19T18:09:30.023115 File "./sniper.py", line 394, in <module>
+2014-01-19T18:09:30.023236 
+2014-01-19T18:09:30.023299 myapp = sniper()
+2014-01-19T18:09:30.023365 File "./sniper.py", line 94, in __init__
+2014-01-19T18:09:30.023437 
+2014-01-19T18:09:30.023493 self.initGui() #loadsetting,uiconfig,loadt5configfile
+2014-01-19T18:09:30.023556 File "/home/salvo/Scrivania/DEV/TARGET/1-SOFTWARE/2-SNIPER/src/sGuiHandler.py", line 16, in initGui
+2014-01-19T18:09:30.023626 
+2014-01-19T18:09:30.023680 self.loadSettings()
+2014-01-19T18:09:30.023741 File "/home/salvo/Scrivania/DEV/TARGET/1-SOFTWARE/2-SNIPER/src/sGuiHandler.py", line 28, in loadSettings
+2014-01-19T18:09:30.023807 
+2014-01-19T18:09:30.023860 self.ui.localIPBox.setText(self.settings["localIP"][0])
+2014-01-19T18:09:30.023924 KeyError
+2014-01-19T18:09:30.023983 :
+2014-01-19T18:09:30.024038 'localIP'
+2014-01-19T18:09:30.024098 
+2014-01-19T18:09:46.042378 Traceback (most recent call last):
+2014-01-19T18:09:46.042523 File "./sniper.py", line 394, in <module>
+2014-01-19T18:09:46.042641 
+2014-01-19T18:09:46.042705 myapp = sniper()
+2014-01-19T18:09:46.042773 File "./sniper.py", line 94, in __init__
+2014-01-19T18:09:46.042847 
+2014-01-19T18:09:46.042905 self.initGui() #loadsetting,uiconfig,loadt5configfile
+2014-01-19T18:09:46.042972 File "/home/salvo/Scrivania/DEV/TARGET/1-SOFTWARE/2-SNIPER/src/sGuiHandler.py", line 16, in initGui
+2014-01-19T18:09:46.043044 
+2014-01-19T18:09:46.043097 self.loadSettings()
+2014-01-19T18:09:46.043160 File "/home/salvo/Scrivania/DEV/TARGET/1-SOFTWARE/2-SNIPER/src/sGuiHandler.py", line 28, in loadSettings
+2014-01-19T18:09:46.043229 
+2014-01-19T18:09:46.043282 self.ui.localIPBox.setText(self.settings["localIP"][0])
+2014-01-19T18:09:46.043348 KeyError
+2014-01-19T18:09:46.043407 :
+2014-01-19T18:09:46.043499 'localIP'
+2014-01-19T18:09:46.043558 
+2014-01-19T18:10:17.668033 Traceback (most recent call last):
+2014-01-19T18:10:17.668194 File "./sniper.py", line 394, in <module>
+2014-01-19T18:10:17.668308 
+2014-01-19T18:10:17.668367 myapp = sniper()
+2014-01-19T18:10:17.668431 File "./sniper.py", line 94, in __init__
+2014-01-19T18:10:17.668500 
+2014-01-19T18:10:17.668554 self.initGui() #loadsetting,uiconfig,loadt5configfile
+2014-01-19T18:10:17.668614 File "/home/salvo/Scrivania/DEV/TARGET/1-SOFTWARE/2-SNIPER/src/sGuiHandler.py", line 16, in initGui
+2014-01-19T18:10:17.668681 
+2014-01-19T18:10:17.668734 self.loadSettings()
+2014-01-19T18:10:17.668794 File "/home/salvo/Scrivania/DEV/TARGET/1-SOFTWARE/2-SNIPER/src/sGuiHandler.py", line 28, in loadSettings
+2014-01-19T18:10:17.668858 
+2014-01-19T18:10:17.668909 self.ui.localIPBox.setText(self.settings["localIP"][0])
+2014-01-19T18:10:17.668970 KeyError
+2014-01-19T18:10:17.669025 :
+2014-01-19T18:10:17.669078 'localIP'
+2014-01-19T18:10:17.669130 
+2014-01-19T18:11:06.363037 Traceback (most recent call last):
+2014-01-19T18:11:06.363203 File "./sniper.py", line 394, in <module>
+2014-01-19T18:11:06.363322 
+2014-01-19T18:11:06.363387 myapp = sniper()
+2014-01-19T18:11:06.363456 File "./sniper.py", line 94, in __init__
+2014-01-19T18:11:06.363527 
+2014-01-19T18:11:06.363585 self.initGui() #loadsetting,uiconfig,loadt5configfile
+2014-01-19T18:11:06.363649 File "/home/salvo/Scrivania/DEV/TARGET/1-SOFTWARE/2-SNIPER/src/sGuiHandler.py", line 16, in initGui
+2014-01-19T18:11:06.363728 
+2014-01-19T18:11:06.363786 self.loadSettings()
+2014-01-19T18:11:06.363850 File "/home/salvo/Scrivania/DEV/TARGET/1-SOFTWARE/2-SNIPER/src/sGuiHandler.py", line 30, in loadSettings
+2014-01-19T18:11:06.363921 
+2014-01-19T18:11:06.363977 self.ui.localIPBox.setText(self.settings["localIP"][0])
+2014-01-19T18:11:06.364043 KeyError
+2014-01-19T18:11:06.364109 :
+2014-01-19T18:11:06.364169 'localIP'
+2014-01-19T18:11:06.364226 
+2014-01-19T18:11:14.176154 Traceback (most recent call last):
+2014-01-19T18:11:14.176343 File "./sniper.py", line 394, in <module>
+2014-01-19T18:11:14.176459 
+2014-01-19T18:11:14.176522 myapp = sniper()
+2014-01-19T18:11:14.176584 File "./sniper.py", line 94, in __init__
+2014-01-19T18:11:14.176653 
+2014-01-19T18:11:14.176705 self.initGui() #loadsetting,uiconfig,loadt5configfile
+2014-01-19T18:11:14.176769 File "/home/salvo/Scrivania/DEV/TARGET/1-SOFTWARE/2-SNIPER/src/sGuiHandler.py", line 16, in initGui
+2014-01-19T18:11:14.176839 
+2014-01-19T18:11:14.176891 self.loadSettings()
+2014-01-19T18:11:14.176953 File "/home/salvo/Scrivania/DEV/TARGET/1-SOFTWARE/2-SNIPER/src/sGuiHandler.py", line 30, in loadSettings
+2014-01-19T18:11:14.177019 
+2014-01-19T18:11:14.177072 self.ui.localIPBox.setText(self.settings["localIP"][0])
+2014-01-19T18:11:14.177137 KeyError
+2014-01-19T18:11:14.177195 :
+2014-01-19T18:11:14.177250 'localIP'
+2014-01-19T18:11:14.177305 
+2014-01-19T18:11:22.126963 Traceback (most recent call last):
+2014-01-19T18:11:22.127132 File "./sniper.py", line 394, in <module>
+2014-01-19T18:11:22.127249 
+2014-01-19T18:11:22.127310 myapp = sniper()
+2014-01-19T18:11:22.127374 File "./sniper.py", line 94, in __init__
+2014-01-19T18:11:22.127446 
+2014-01-19T18:11:22.127500 self.initGui() #loadsetting,uiconfig,loadt5configfile
+2014-01-19T18:11:22.127563 File "/home/salvo/Scrivania/DEV/TARGET/1-SOFTWARE/2-SNIPER/src/sGuiHandler.py", line 16, in initGui
+2014-01-19T18:11:22.127630 
+2014-01-19T18:11:22.127681 self.loadSettings()
+2014-01-19T18:11:22.127741 File "/home/salvo/Scrivania/DEV/TARGET/1-SOFTWARE/2-SNIPER/src/sGuiHandler.py", line 30, in loadSettings
+2014-01-19T18:11:22.127805 
+2014-01-19T18:11:22.127855 self.ui.localIPBox.setText(self.settings["localIP"][0])
+2014-01-19T18:11:22.127918 KeyError
+2014-01-19T18:11:22.127972 :
+2014-01-19T18:11:22.128025 'localIP'
+2014-01-19T18:11:22.128076 
+2014-01-19T18:11:39.540151 Traceback (most recent call last):
+2014-01-19T18:11:39.540905 File "sniper.py", line 396, in <module>
+2014-01-19T18:11:39.541832 
+2014-01-19T18:11:39.542456 sys.exit(app.exec_())
+2014-01-19T18:11:39.543074 SystemExit
+2014-01-19T18:11:39.543625 :
+2014-01-19T18:11:39.544187 0
+2014-01-19T18:11:39.544682 
+2014-01-19T18:11:40.446165 
+2014-01-19T18:12:01.870956 Traceback (most recent call last):
+2014-01-19T18:12:01.871125 File "sniper.py", line 394, in <module>
+2014-01-19T18:12:01.871243 
+2014-01-19T18:12:01.871305 myapp = sniper()
+2014-01-19T18:12:01.871371 File "sniper.py", line 94, in __init__
+2014-01-19T18:12:01.871443 
+2014-01-19T18:12:01.871498 self.initGui() #loadsetting,uiconfig,loadt5configfile
+2014-01-19T18:12:01.871562 File "/home/salvo/Scrivania/DEV/TARGET/1-SOFTWARE/2-SNIPER/src/sGuiHandler.py", line 18, in initGui
+2014-01-19T18:12:01.871631 
+2014-01-19T18:12:01.871684 self.uiConfig()
+2014-01-19T18:12:01.871744 File "/home/salvo/Scrivania/DEV/TARGET/1-SOFTWARE/2-SNIPER/src/sGuiHandler.py", line 143, in uiConfig
+2014-01-19T18:12:01.871821 
+2014-01-19T18:12:01.871874 self.ui.triggerButton.setText(self.settings["triggerType"])
+2014-01-19T18:12:01.871937 KeyError
+2014-01-19T18:12:01.871994 :
+2014-01-19T18:12:01.872048 'triggerType'
+2014-01-19T18:12:01.872102 
+2014-01-19T18:12:03.175401 
+2014-01-19T18:12:05.291455 Traceback (most recent call last):
+2014-01-19T18:12:05.291653 File "./sniper.py", line 394, in <module>
+2014-01-19T18:12:05.291773 
+2014-01-19T18:12:05.291838 myapp = sniper()
+2014-01-19T18:12:05.291907 File "./sniper.py", line 94, in __init__
+2014-01-19T18:12:05.291981 
+2014-01-19T18:12:05.292039 self.initGui() #loadsetting,uiconfig,loadt5configfile
+2014-01-19T18:12:05.292113 File "/home/salvo/Scrivania/DEV/TARGET/1-SOFTWARE/2-SNIPER/src/sGuiHandler.py", line 18, in initGui
+2014-01-19T18:12:05.292186 
+2014-01-19T18:12:05.292242 self.uiConfig()
+2014-01-19T18:12:05.292305 File "/home/salvo/Scrivania/DEV/TARGET/1-SOFTWARE/2-SNIPER/src/sGuiHandler.py", line 143, in uiConfig
+2014-01-19T18:12:05.292384 
+2014-01-19T18:12:05.292440 self.ui.triggerButton.setText(self.settings["triggerType"])
+2014-01-19T18:12:05.292506 KeyError
+2014-01-19T18:12:05.292565 :
+2014-01-19T18:12:05.292622 'triggerType'
+2014-01-19T18:12:05.292679 
+2014-01-19T18:14:29.132393 Errore lettura file di configurazione. First config loaded.
+2014-01-19T18:18:14.726945 Errore lettura file di configurazione. First config loaded.

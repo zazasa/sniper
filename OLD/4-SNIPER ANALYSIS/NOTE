@@ -1,0 +1,8 @@
+Procedure di calibrazione 22/10/13
+Procedure di calibrazione 24/10/13 changes made after justin and leonid mail
+    fixed blockid computation
+    added sampling array block id
+    modified calibration config file (removed forcing starting row column address)
+
+
+

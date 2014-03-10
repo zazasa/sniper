@@ -1,0 +1,534 @@
+2013-08-21T17:32:46.792622 Binding the receive socket to port 8106 of 127.0.0.1
+2013-08-21T17:33:29.156614 Binding the receive socket to port 8106 of 127.0.0.1
+2013-08-21T17:33:56.468391 Binding the receive socket to port 8106 of 127.0.0.1
+2013-08-21T17:35:56.794562 Binding the receive socket to port 8106 of 127.0.0.1
+2013-08-21T17:35:57.845391 Socket closed
+2013-08-21T21:19:43.604156 Binding the receive socket to port 8106 of 127.0.0.1
+2013-08-21T21:19:46.081367 Socket closed
+2013-08-21T21:20:37.068657 Binding the receive socket to port 8106 of 127.0.0.1
+2013-08-21T21:20:39.891520 Socket closed
+2013-08-21T21:21:17.687084 Socket closed
+2013-08-21T21:21:34.963392 Socket closed
+2013-08-21T21:34:59.723500 Binding the receive socket to port 8106 of 127.0.0.1
+2013-08-21T21:35:05.149908 Socket closed
+2013-08-21T21:37:44.466482 Binding the receive socket to port 8106 of 127.0.0.1
+2013-08-21T21:37:48.720042 Socket closed
+2013-08-22T10:44:43.789340 Binding the receive socket to port 8106 of 127.0.0.1
+2013-08-22T10:44:43.940831 Binding the receive socket to port 8106 of 127.0.0.1
+2013-08-22T10:44:44.086850 Binding the receive socket to port 8106 of 127.0.0.1
+2013-08-22T10:44:44.226848 Binding the receive socket to port 8106 of 127.0.0.1
+2013-08-22T10:44:44.358768 Binding the receive socket to port 8106 of 127.0.0.1
+2013-08-22T10:44:44.486856 Binding the receive socket to port 8106 of 127.0.0.1
+2013-08-22T10:44:44.621858 Binding the receive socket to port 8106 of 127.0.0.1
+2013-08-22T10:44:44.755799 Binding the receive socket to port 8106 of 127.0.0.1
+2013-08-22T10:44:44.888001 Binding the receive socket to port 8106 of 127.0.0.1
+2013-08-22T10:44:45.007809 Binding the receive socket to port 8106 of 127.0.0.1
+2013-08-22T10:44:45.145848 Binding the receive socket to port 8106 of 127.0.0.1
+2013-08-22T10:44:45.259847 Binding the receive socket to port 8106 of 127.0.0.1
+2013-08-22T10:44:45.397848 Binding the receive socket to port 8106 of 127.0.0.1
+2013-08-22T10:44:45.509852 Binding the receive socket to port 8106 of 127.0.0.1
+2013-08-22T10:44:45.634846 Binding the receive socket to port 8106 of 127.0.0.1
+2013-08-22T10:44:45.745746 Binding the receive socket to port 8106 of 127.0.0.1
+2013-08-22T10:44:45.892844 Binding the receive socket to port 8106 of 127.0.0.1
+2013-08-22T10:44:46.018849 Binding the receive socket to port 8106 of 127.0.0.1
+2013-08-22T10:44:46.159808 Binding the receive socket to port 8106 of 127.0.0.1
+2013-08-22T10:44:46.322848 Binding the receive socket to port 8106 of 127.0.0.1
+2013-08-22T10:44:46.457857 Binding the receive socket to port 8106 of 127.0.0.1
+2013-08-22T10:44:46.599867 Binding the receive socket to port 8106 of 127.0.0.1
+2013-08-22T10:44:46.758792 Binding the receive socket to port 8106 of 127.0.0.1
+2013-08-22T10:44:46.895765 Binding the receive socket to port 8106 of 127.0.0.1
+2013-08-22T10:44:47.031774 Binding the receive socket to port 8106 of 127.0.0.1
+2013-08-22T10:44:47.182864 Binding the receive socket to port 8106 of 127.0.0.1
+2013-08-23T17:21:41.285102 Binding the receive socket to port 8106 of 0.0.0.0
+2013-08-23T17:22:14.477766 Binding the receive socket to port 8106 of 0.0.0.0
+2013-08-23T17:22:14.478864 Running on Board (serial code 0x00000003) firmware version 0xc40000120x3b9a7601.
+2013-08-23T17:23:11.411014 Binding the receive socket to port 8106 of 0.0.0.0
+2013-08-23T17:23:11.411882 Running on Board (serial code c40000120x3b9a7601) firmware version 00000003.
+2013-08-23T17:23:30.249239 Socket closed
+2013-08-23T17:23:40.728230 Binding the receive socket to port 8106 of 0.0.0.0
+2013-08-23T17:23:46.973176 Socket closed
+2013-08-23T17:23:46.974333 Socket closed
+2013-08-23T17:23:46.975055 Socket closed
+2013-08-23T17:23:46.975862 Socket closed
+2013-08-23T17:23:46.976512 Socket closed
+2013-08-23T17:23:46.977240 Socket closed
+2013-08-23T17:23:46.977972 Socket closed
+2013-08-23T17:23:46.978558 Socket closed
+2013-08-23T17:23:51.440757 Binding the receive socket to port 8106 of 0.0.0.0
+2013-08-23T17:35:46.862172 Binding the receive socket to port 8106 of 0.0.0.0
+2013-08-23T17:44:27.010829 Binding the receive socket to port 8106 of 0.0.0.0
+2013-08-23T17:44:33.263593 Traceback (most recent call last):
+
+2013-08-23T17:44:33.263935   File "./sniper.py", line 65, in openConnection
+
+2013-08-23T17:44:33.264112     
+2013-08-23T17:44:33.264201 self.boardVer= "%s" %"0x%08x" %self.board.ReadRegister(0x01)
+
+2013-08-23T17:44:33.264389   File "/home/salvo/Scrivania/DEV-PROJ/Target/3-SNIPER/src/target.py", line 392, in ReadRegister
+
+2013-08-23T17:44:33.264656     
+2013-08-23T17:44:33.264746 return _target.BaseInterface_ReadRegister(self, *args)
+
+2013-08-23T17:44:33.264909 target
+2013-08-23T17:44:33.264997 .
+2013-08-23T17:44:33.265095 RuntimeError
+2013-08-23T17:44:33.265205 : 
+2013-08-23T17:44:33.266348 Cannot read a response packet
+2013-08-23T17:44:33.266475 
+
+2013-08-23T17:46:20.056001 Binding the receive socket to port 8106 of 0.0.0.0
+2013-08-23T17:57:53.223378 Binding the receive socket to port 8106 of 0.0.0.0
+2013-08-23T17:57:59.467713 Traceback (most recent call last):
+
+2013-08-23T17:57:59.468067   File "./sniper.py", line 67, in openConnection
+
+2013-08-23T17:57:59.468246     
+2013-08-23T17:57:59.468337 self.logManager(error.args[0],"both")
+
+2013-08-23T17:57:59.468498 NameError
+2013-08-23T17:57:59.468609 : 
+2013-08-23T17:57:59.468709 global name 'error' is not defined
+2013-08-23T17:57:59.468828 
+
+2013-08-23T17:58:57.580462 Binding the receive socket to port 8106 of 0.0.0.0
+2013-08-23T18:00:44.544191 Binding the receive socket to port 8106 of 0.0.0.0
+2013-08-23T18:01:56.292334 Binding the receive socket to port 8106 of 0.0.0.0
+2013-08-23T18:02:32.047829 Binding the receive socket to port 8106 of 0.0.0.0
+2013-08-23T18:04:15.868290 Binding the receive socket to port 8106 of 0.0.0.0
+2013-08-23T18:04:36.558823 Binding the receive socket to port 8106 of 0.0.0.0
+2013-08-23T18:04:55.983089 Binding the receive socket to port 8106 of 0.0.0.0
+2013-08-23T18:06:04.278092 Binding the receive socket to port 8106 of 0.0.0.0
+2013-08-23T18:06:40.644740 Binding the receive socket to port 8106 of 0.0.0.0
+2013-08-23T18:07:09.001134 Binding the receive socket to port 8106 of 0.0.0.0
+2013-08-23T18:07:43.670198 Binding the receive socket to port 8106 of 0.0.0.0
+2013-08-23T18:08:10.292994 Binding the receive socket to port 8106 of 0.0.0.0
+2013-08-23T18:08:37.946102 Binding the receive socket to port 8106 of 0.0.0.0
+2013-08-23T18:08:38.009180 Cannot read a response packet
+2013-08-23T18:08:51.879261 Binding the receive socket to port 8106 of 0.0.0.0
+2013-08-23T18:08:51.942529 Cannot read a response packet
+2013-08-23T18:13:16.748039 Binding the receive socket to port 8106 of 0.0.0.0
+2013-08-23T18:13:16.810943 Cannot read a response packet
+2013-08-23T18:13:22.919319 Binding the receive socket to port 8106 of 0.0.0.0
+2013-08-23T18:13:35.025135 Socket closed
+2013-08-23T18:14:50.339528 Binding the receive socket to port 8106 of 0.0.0.0
+2013-08-23T18:14:50.340266 Running on Board (serial code c40000120x3b9a7601) firmware version 00000003.
+2013-08-23T18:14:59.376371 Socket closed
+2013-08-23T18:14:59.967329 Binding the receive socket to port 8106 of 0.0.0.0
+2013-08-23T18:15:00.030172 Cannot read a response packet
+2013-08-23T18:26:23.714146 Binding the receive socket to port 8106 of 0.0.0.0
+2013-08-23T18:26:23.777111 Cannot read a response packet
+2013-08-23T18:27:55.043083 Binding the receive socket to port 8106 of 0.0.0.0
+2013-08-23T18:27:55.106326 Cannot read a response packet
+2013-08-23T18:27:56.452841 Socket closed
+2013-08-24T20:45:31.144849 Binding the receive socket to port 8106 of 0.0.0.0
+2013-08-24T20:45:31.207718 openConnecton error: Cannot read a response packet
+2013-08-24T20:46:11.096076 Binding the receive socket to port 8106 of 0.0.0.0
+2013-08-24T20:46:11.159147 openConnecton error: Cannot read a response packet
+2013-08-24T20:46:11.159385 Socket closed
+2013-08-24T20:46:34.672124 Binding the receive socket to port 8106 of 0.0.0.0
+2013-08-24T20:46:40.925002 openConnecton error: Cannot read a response packet
+2013-08-24T20:46:40.925398 Socket closed
+2013-08-25T10:12:49.280123 Binding the receive socket to port 8106 of 0.0.0.0
+2013-08-25T10:12:55.626317 openConnecton error: Cannot read a response packet
+2013-08-25T10:12:55.626740 Socket closed
+2013-08-25T11:03:48.851582 Binding the receive socket to port 8106 of 0.0.0.0
+2013-08-25T11:03:48.916126 openConnecton error: Cannot read a response packet
+2013-08-25T11:03:48.916554 Socket closed
+2013-08-25T12:47:52.597442 Binding the receive socket to port 8106 of 0.0.0.0
+2013-08-25T12:47:52.661404 openConnecton error: Cannot read a response packet
+2013-08-25T12:47:52.661762 Socket closed
+2013-08-25T12:48:47.179535 Binding the receive socket to port 8106 of 0.0.0.0
+2013-08-25T12:48:47.243396 openConnecton error: Cannot read a response packet
+2013-08-25T12:48:47.243758 Socket closed
+2013-08-25T12:50:00.975872 Binding the receive socket to port 8106 of 0.0.0.0
+2013-08-25T12:50:01.039907 openConnecton error: Cannot read a response packet
+2013-08-25T12:50:01.040320 Socket closed
+2013-08-25T12:51:19.525583 Binding the receive socket to port 8106 of 0.0.0.0
+2013-08-25T12:51:19.589456 openConnecton error: Cannot read a response packet
+2013-08-25T12:51:19.589858 Socket closed
+2013-08-25T12:51:50.083451 Binding the receive socket to port 8106 of 0.0.0.0
+2013-08-25T12:51:50.147278 openConnecton error: Cannot read a response packet
+2013-08-25T12:51:50.148556 Socket closed
+2013-08-25T12:53:09.349713 Binding the receive socket to port 8106 of 0.0.0.0
+2013-08-25T12:53:09.413829 openConnecton error: Cannot read a response packet
+2013-08-25T12:53:09.414243 Socket closed
+2013-08-25T12:56:17.483067 Binding the receive socket to port 8106 of 0.0.0.0
+2013-08-25T12:56:17.484259 Running on Board (serial code 3b9a76010x00000000) firmware version 00000003.
+2013-08-25T12:59:28.952183 Binding the receive socket to port 8106 of 0.0.0.0
+2013-08-25T12:59:28.953129 Running on Board (serial code 3b9a76010x00000000) firmware version 00000003.
+2013-08-25T13:00:05.789169 Binding the receive socket to port 8106 of 0.0.0.0
+2013-08-25T13:00:05.790049 Running on Board (serial code 3b9a76010x00000000) firmware version 00000003.
+2013-08-25T13:15:54.921036 Binding the receive socket to port 8106 of 0.0.0.0
+2013-08-25T13:16:28.839183 Binding the receive socket to port 8106 of 0.0.0.0
+2013-08-25T13:16:28.840105 Running on Board (serial code 3b9a76010x00000000) firmware version 00000003.
+2013-08-25T13:16:51.178272 Binding the receive socket to port 8106 of 0.0.0.0
+2013-08-25T13:17:41.050152 Binding the receive socket to port 8106 of 0.0.0.0
+2013-08-25T13:23:07.947513 Binding the receive socket to port 8106 of 0.0.0.0
+2013-08-25T13:23:07.948492 Running on Board (serial code 3b9a76010x00000000) firmware version 00000003.
+2013-08-25T13:23:22.610588 Binding the receive socket to port 8106 of 0.0.0.0
+2013-08-25T13:23:22.611555 Running on Board (serial code 3b9a76010x00000000) firmware version 00000003.
+2013-08-25T13:23:40.534504 Binding the receive socket to port 8106 of 0.0.0.0
+2013-08-25T13:23:40.535429 Running on Board (serial code 3b9a76010x00000000) firmware version 00000003.
+2013-08-25T13:24:34.653531 Binding the receive socket to port 8106 of 0.0.0.0
+2013-08-25T13:24:34.654529 Running on Board (serial code 3b9a76010x00000000) firmware version 00000003.
+2013-08-25T13:25:14.576483 Binding the receive socket to port 8106 of 0.0.0.0
+2013-08-25T13:25:14.577485 Running on Board (serial code 3b9a76010x00000000) firmware version 00000003.
+2013-08-25T13:39:47.849152 Binding the receive socket to port 8106 of 0.0.0.0
+2013-08-25T13:39:47.912291 openConnecton error: Cannot read a response packet
+2013-08-25T13:39:47.912647 Socket closed
+2013-08-25T13:41:06.209259 Binding the receive socket to port 8106 of 0.0.0.0
+2013-08-25T13:41:06.272949 openConnecton error: Cannot read a response packet
+2013-08-25T13:41:06.273308 Socket closed
+2013-08-25T13:42:49.161697 Binding the receive socket to port 8106 of 0.0.0.0
+2013-08-25T13:42:49.225757 openConnecton error: Cannot read a response packet
+2013-08-25T13:42:49.226133 Socket closed
+2013-08-25T13:44:15.045903 Binding the receive socket to port 8106 of 0.0.0.0
+2013-08-25T13:44:15.109841 openConnecton error: Cannot read a response packet
+2013-08-25T13:44:15.110198 Socket closed
+2013-08-25T13:46:00.028683 Binding the receive socket to port 8106 of 0.0.0.0
+2013-08-25T13:46:00.092596 openConnecton error: Cannot read a response packet
+2013-08-25T13:46:00.092998 Socket closed
+2013-08-25T13:54:52.281436 Binding the receive socket to port 8106 of 0.0.0.0
+2013-08-25T13:54:52.282495 Running on Board (serial code 3b9a76010x00000000) firmware version 00000003.
+2013-08-25T14:49:08.645206 Binding the receive socket to port 8106 of 0.0.0.0
+2013-08-25T14:49:08.709061 openConnecton error: Cannot read a response packet
+2013-08-25T14:49:08.709474 Socket closed
+2013-08-25T14:52:03.493319 Binding the receive socket to port 8106 of 0.0.0.0
+2013-08-25T14:52:03.557787 openConnecton error: Cannot read a response packet
+2013-08-25T14:52:03.558187 Socket closed
+2013-08-25T14:52:04.851430 Socket closed
+2013-08-27T17:09:00.810504 Binding the receive socket to port 8106 of 0.0.0.0
+2013-08-27T17:09:00.811683 Running on Board (serial code 3b9a76010x00000000) firmware version 00000003.
+2013-08-27T17:12:28.043494 Binding the receive socket to port 8106 of 0.0.0.0
+2013-08-27T17:12:28.106485 openConnecton error: Cannot read a response packet
+2013-08-27T17:12:28.106716 Socket closed
+2013-08-27T19:49:49.233616 Binding the receive socket to port 8106 of 0.0.0.0
+2013-08-27T19:49:49.235102 Running on Board (serial code 3b9a76010x00000000) firmware version 00000003.
+2013-08-27T19:51:17.762517 Binding the receive socket to port 8106 of 0.0.0.0
+2013-08-27T19:51:17.763496 Running on Board (serial code 3b9a76010x00000000) firmware version 00000003.
+2013-08-28T15:30:45.062819 Binding the receive socket to port 8106 of 0.0.0.0
+2013-08-28T15:30:45.064431 Running on Board (serial code 3b9a76010x00000000) firmware version 00000003.
+2013-08-28T15:40:41.819495 Binding the receive socket to port 8106 of 0.0.0.0
+2013-08-28T15:40:41.820426 Running on Board (serial code 3b9a76010x00000000) firmware version 00000003.
+2013-08-28T15:41:07.501200 Binding the receive socket to port 8106 of 0.0.0.0
+2013-08-28T15:41:07.502106 Running on Board (serial code 3b9a76010x00000000) firmware version 00000003.
+2013-08-28T15:44:51.928586 Binding the receive socket to port 8106 of 0.0.0.0
+2013-08-28T15:44:51.929562 Running on Board (serial code 3b9a76010x00000000) firmware version 00000003.
+2013-08-28T15:52:22.095078 Binding the receive socket to port 8106 of 0.0.0.0
+2013-08-28T15:52:22.095885 Running on Board (serial code 3b9a76010x00000000) firmware version 00000003.
+2013-08-28T15:57:23.027525 Binding the receive socket to port 8106 of 0.0.0.0
+2013-08-28T15:57:23.028386 Running on Board (serial code 3b9a76010x00000000) firmware version 00000003.
+2013-08-28T16:12:39.235136 Binding the receive socket to port 8106 of 0.0.0.0
+2013-08-28T16:12:39.235915 Running on Board (serial code 3b9a76010x00000000) firmware version 00000003.
+2013-08-29T19:55:48.062393 Binding the receive socket to port 8106 of 0.0.0.0
+2013-08-29T19:55:48.064128 Running on Board (serial code 3b9a76010x00000000) firmware version 00000003.
+2013-08-29T20:01:08.818757 Socket closed
+2013-08-29T20:01:09.306266 Binding the receive socket to port 8106 of 0.0.0.0
+2013-08-29T20:01:09.307012 Running on Board (serial code 3b9a76010x00000000) firmware version 00000003.
+2013-08-29T20:01:23.303243 Binding the receive socket to port 8106 of 0.0.0.0
+2013-08-29T20:01:23.304284 Running on Board (serial code c40000120x3b9a7601) firmware version 00000003.
+2013-08-29T20:02:34.079550 Binding the receive socket to port 8106 of 0.0.0.0
+2013-08-29T20:02:34.080479 Running on Board (serial code c40000120x3b9a7601) firmware version 00000003.
+2013-08-29T20:03:25.105676 Binding the receive socket to port 8106 of 0.0.0.0
+2013-08-29T20:03:25.106467 openConnecton error: not all arguments converted during string formatting
+2013-08-29T20:03:25.106776 Socket closed
+2013-08-29T20:04:02.855157 Binding the receive socket to port 8106 of 0.0.0.0
+2013-08-29T20:04:02.855672 openConnecton error: incomplete format
+2013-08-29T20:04:02.855968 Socket closed
+2013-08-29T20:05:26.079430 Binding the receive socket to port 8106 of 0.0.0.0
+2013-08-29T20:05:26.080557 Running on Board (serial code 88334354999978497) firmware version 00000003.
+2013-08-29T20:05:50.586666 Binding the receive socket to port 8106 of 0.0.0.0
+2013-08-29T20:05:50.587375 Running on Board (serial code c4000012999978497) firmware version 00000003.
+2013-08-29T20:06:07.945275 Binding the receive socket to port 8106 of 0.0.0.0
+2013-08-29T20:06:07.946040 Running on Board (serial code c40000120x3b9a7601) firmware version 00000003.
+2013-08-29T20:06:46.038463 Binding the receive socket to port 8106 of 0.0.0.0
+2013-08-29T20:06:46.039336 Running on Board (serial code c40000120x3b9a7601) firmware version 00000003.
+2013-08-29T20:08:38.063702 Binding the receive socket to port 8106 of 0.0.0.0
+2013-08-29T20:08:38.064352 openConnecton error: incomplete format
+2013-08-29T20:08:38.064642 Socket closed
+2013-08-29T20:13:17.072293 Binding the receive socket to port 8106 of 0.0.0.0
+2013-08-29T20:13:17.072902 Running on Board (serial code 0000123b9a7601) firmware version 000003.
+2013-08-29T20:14:26.548719 Binding the receive socket to port 8106 of 0.0.0.0
+2013-08-29T20:14:26.549371 Running on Board (serial code 0000123b9a7601) firmware version 000003.
+2013-08-29T20:15:13.618129 Binding the receive socket to port 8106 of 0.0.0.0
+2013-08-29T20:15:13.619326 Running on Board (serial code 0000123b9a7601) firmware version 000003.
+2013-08-29T20:15:51.861807 Binding the receive socket to port 8106 of 0.0.0.0
+2013-08-29T20:15:51.862649 Running on Board (serial code 0000123b9a7601) firmware version 000003.
+2013-08-29T20:16:47.296963 Binding the receive socket to port 8106 of 0.0.0.0
+2013-08-29T20:16:47.297580 Running on Board (serial code c4000012 0x3b9a7601) firmware version 000003.
+2013-08-29T20:17:58.724412 Binding the receive socket to port 8106 of 0.0.0.0
+2013-08-29T20:17:58.725296 Running on Board (serial code 000012 3b9a7601) firmware version 000003.
+2013-08-29T20:19:56.093020 Binding the receive socket to port 8106 of 0.0.0.0
+2013-08-29T20:19:56.093633 Running on Board (serial code 000012 3b9a7601) firmware version 000003.
+2013-08-29T20:20:24.344697 Binding the receive socket to port 8106 of 0.0.0.0
+2013-08-29T20:20:24.345350 Running on Board (serial code c4000012 3b9a7601) firmware version 00000003.
+2013-08-29T20:20:33.598942 Binding the receive socket to port 8106 of 0.0.0.0
+2013-08-29T20:20:33.599577 Running on Board (serial code c40000123b9a7601) firmware version 00000003.
+2013-08-29T20:21:34.941057 Binding the receive socket to port 8106 of 0.0.0.0
+2013-08-29T20:21:34.941895 Running on Board (serial code c40000123b9a7601) firmware version 00000003.
+2013-08-30T10:23:35.753447 Binding the receive socket to port 8106 of 0.0.0.0
+2013-08-30T10:23:35.818565 openConnecton error: Cannot read a response packet
+2013-08-30T10:23:35.818883 Socket closed
+2013-08-30T10:23:43.996599 Binding the receive socket to port 8106 of 0.0.0.0
+2013-08-30T10:23:43.998606 Running on Board (serial code c40000123b9a7601) firmware version 00000003.
+2013-08-30T11:07:13.351786 Binding the receive socket to port 8106 of 0.0.0.0
+2013-08-30T11:07:13.352572 Running on Board (serial code c40000123b9a7601) firmware version 00000003.
+2013-08-30T11:37:09.436924 Binding the receive socket to port 8106 of 0.0.0.0
+2013-08-30T11:37:09.437809 Running on Board (serial code c40000123b9a7601) firmware version 00000003.
+2013-08-30T11:38:09.877596 Binding the receive socket to port 8106 of 0.0.0.0
+2013-08-30T11:38:09.878459 Running on Board (serial code c40000123b9a7601) firmware version 00000003.
+2013-08-30T11:38:36.235607 Binding the receive socket to port 8106 of 0.0.0.0
+2013-08-30T11:38:36.236420 Running on Board (serial code c40000123b9a7601) firmware version 00000003.
+2013-08-30T11:40:30.678754 Binding the receive socket to port 8106 of 0.0.0.0
+2013-08-30T11:40:30.679758 Running on Board (serial code c40000123b9a7601) firmware version 00000003.
+2013-08-30T11:41:03.298559 Binding the receive socket to port 8106 of 0.0.0.0
+2013-08-30T11:41:03.299223 Running on Board (serial code c40000123b9a7601) firmware version 00000003.
+2013-08-30T11:45:02.901873 Binding the receive socket to port 8106 of 0.0.0.0
+2013-08-30T11:45:02.902835 Running on Board (serial code c40000123b9a7601) firmware version 00000003.
+2013-08-30T11:46:32.826110 Binding the receive socket to port 8106 of 0.0.0.0
+2013-08-30T11:46:32.826947 Running on Board (serial code c40000123b9a7601) firmware version 00000003.
+2013-08-30T11:48:12.683069 Binding the receive socket to port 8106 of 0.0.0.0
+2013-08-30T11:48:12.684012 Running on Board (serial code c40000123b9a7601) firmware version 00000003.
+2013-08-30T11:51:10.793124 Binding the receive socket to port 8106 of 0.0.0.0
+2013-08-30T11:51:10.794050 Running on Board (serial code c40000123b9a7601) firmware version 00000003.
+2013-08-30T11:51:54.720087 Binding the receive socket to port 8106 of 0.0.0.0
+2013-08-30T11:51:54.720992 Running on Board (serial code c40000123b9a7601) firmware version 00000003.
+2013-08-30T11:52:48.165254 Binding the receive socket to port 8106 of 0.0.0.0
+2013-08-30T11:52:48.165985 Running on Board (serial code c40000123b9a7601) firmware version 00000003.
+2013-08-30T12:10:49.113739 Invalid filename
+2013-08-30T12:11:17.246172 Invalid filename t5configfast.csv
+2013-08-30T12:11:33.250840 Invalid filename t5configfast.csv
+2013-08-30T12:12:01.158630 Invalid filename t5configfast.csv
+2013-08-30T12:12:26.716686 Invalid filename t5configfast.csv
+2013-08-30T12:12:42.018080 Binding the receive socket to port 8106 of 0.0.0.0
+2013-08-30T12:12:42.018999 Running on Board (serial code c40000123b9a7601) firmware version 00000003.
+2013-08-30T12:12:45.861970 Invalid filename /home/salvo/Scrivania/DEV-PROJ/Target/1-SOFTWARE/2-SNIPER/src/sniperLog.log
+2013-08-30T12:13:19.660006 Binding the receive socket to port 8106 of 0.0.0.0
+2013-08-30T12:13:19.660901 Running on Board (serial code c40000123b9a7601) firmware version 00000003.
+2013-08-30T12:14:01.618061 Binding the receive socket to port 8106 of 0.0.0.0
+2013-08-30T12:14:01.618990 Running on Board (serial code c40000123b9a7601) firmware version 00000003.
+2013-08-30T12:16:11.734821 Binding the receive socket to port 8106 of 0.0.0.0
+2013-08-30T12:16:11.735694 Running on Board (serial code c40000123b9a7601) firmware version 00000003.
+2013-08-30T12:16:13.950733 Invalid filename 
+2013-08-30T20:30:28.321104 Binding the receive socket to port 8106 of 0.0.0.0
+2013-08-30T20:30:28.321823 Running on Board (serial code c40000123b9a7601) firmware version 00000003.
+2013-08-30T20:30:41.507097 Invalid filename 
+2013-08-30T20:30:43.796432 Invalid filename /home/salvo/Scrivania/DEV-PROJ/Target/1-SOFTWARE/2-SNIPER/src/sniperLog.log
+2013-08-31T18:01:52.570837 Binding the receive socket to port 8106 of 0.0.0.0
+2013-08-31T18:01:52.571591 Running on Board (serial code c40000123b9a7601) firmware version 00000003.
+2013-08-31T18:05:15.592363 Binding the receive socket to port 8106 of 0.0.0.0
+2013-08-31T18:05:15.593261 Running on Board (serial code c40000123b9a7601) firmware version 00000003.
+2013-08-31T18:42:24.681899 Binding the receive socket to port 8106 of 0.0.0.0
+2013-08-31T18:42:24.682798 Running on Board (serial code c40000123b9a7601) firmware version 00000003.
+2013-08-31T18:45:36.822107 Binding the receive socket to port 8106 of 0.0.0.0
+2013-08-31T18:45:36.822869 Running on Board (serial code c40000123b9a7601) firmware version 00000003.
+2013-08-31T18:47:24.373907 Binding the receive socket to port 8106 of 0.0.0.0
+2013-08-31T18:47:24.374770 Running on Board (serial code c40000123b9a7601) firmware version 00000003.
+2013-08-31T18:49:53.674265 Binding the receive socket to port 8106 of 0.0.0.0
+2013-08-31T18:49:53.674961 Running on Board (serial code c40000123b9a7601) firmware version 00000003.
+2013-08-31T20:40:20.152015 Invalid filename /home/salvo/Scrivania/DEV-PROJ/Target/1-SOFTWARE/2-SNIPER/src/prove.cpp
+2013-08-31T20:54:19.902395 Invalid filename /home/salvo/Scrivania/DEV-PROJ/Target/1-SOFTWARE/2-SNIPER/src/sniperLog.log
+2013-08-31T21:53:24.693484 Binding the receive socket to port 8106 of 0.0.0.0
+2013-08-31T21:53:24.694121 Running on Board (serial code c40000123b9a7601) firmware version 00000003.
+2013-08-31T21:56:58.071578 Binding the receive socket to port 8106 of 0.0.0.0
+2013-08-31T21:56:58.072462 Running on Board (serial code c40000123b9a7601) firmware version 00000003.
+2013-08-31T21:56:58.735040 Socket closed
+2013-08-31T22:04:32.603293 Binding the receive socket to port 8106 of 0.0.0.0
+2013-08-31T22:04:32.604027 Running on Board (serial code c40000123b9a7601) firmware version 00000003.
+2013-08-31T22:04:42.740848 Socket closed
+2013-08-31T22:04:50.975854 Binding the receive socket to port 8106 of 0.0.0.0
+2013-08-31T22:04:50.976518 Running on Board (serial code c40000123b9a7601) firmware version 00000003.
+2013-08-31T22:04:53.356498 Socket closed
+2013-08-31T22:05:44.230387 Binding the receive socket to port 8106 of 0.0.0.0
+2013-08-31T22:05:44.231007 Running on Board (serial code c40000123b9a7601) firmware version 00000003.
+2013-08-31T22:05:47.097321 Socket closed
+2013-08-31T22:05:56.003883 Binding the receive socket to port 8106 of 0.0.0.0
+2013-08-31T22:05:56.004717 Running on Board (serial code c40000123b9a7601) firmware version 00000003.
+2013-08-31T22:06:04.843635 Binding the receive socket to port 8106 of 0.0.0.0
+2013-08-31T22:06:04.844426 Running on Board (serial code c40000123b9a7601) firmware version 00000003.
+2013-08-31T22:06:50.851661 Binding the receive socket to port 8106 of 0.0.0.0
+2013-08-31T22:06:50.852350 Running on Board (serial code c40000123b9a7601) firmware version 00000003.
+2013-08-31T22:06:53.529534 Socket closed
+2013-08-31T22:08:52.223285 Binding the receive socket to port 8106 of 0.0.0.0
+2013-08-31T22:09:15.783354 Binding the receive socket to port 8106 of 0.0.0.0
+2013-08-31T22:09:15.784129 Running on Board (serial code c40000123b9a7601) firmware version 00000003.
+2013-08-31T22:09:18.638578 Socket closed
+2013-09-01T11:00:47.715045 Binding the receive socket to port 8106 of 0.0.0.0
+2013-09-01T11:00:47.715841 Running on Board (serial code c40000123b9a7601) firmware version 00000003.
+2013-09-01T11:02:18.226657 Invalid filename /home/salvo/Scrivania/DEV-PROJ/Target/1-SOFTWARE/2-SNIPER/src/CSVTableModel.py
+2013-09-01T11:03:38.161936 Socket closed
+2013-09-01T11:03:58.100532 Binding the receive socket to port 8106 of 0.0.0.0
+2013-09-01T11:03:58.101164 Running on Board (serial code c40000123b9a7601) firmware version 00000003.
+2013-09-01T11:06:07.652727 Binding the receive socket to port 8106 of 0.0.0.0
+2013-09-01T11:06:07.653468 Running on Board (serial code c40000123b9a7601) firmware version 00000003.
+2013-09-01T11:06:28.106631 Binding the receive socket to port 8106 of 0.0.0.0
+2013-09-01T11:06:28.107480 Running on Board (serial code c40000123b9a7601) firmware version 00000003.
+2013-09-01T11:06:53.131004 Binding the receive socket to port 8106 of 0.0.0.0
+2013-09-01T11:06:53.131892 Running on Board (serial code c40000123b9a7601) firmware version 00000003.
+2013-09-01T11:07:52.605624 Binding the receive socket to port 8106 of 0.0.0.0
+2013-09-01T11:07:52.606415 Running on Board (serial code c40000123b9a7601) firmware version 00000003.
+2013-09-01T12:00:40.575572 Binding the receive socket to port 8106 of 0.0.0.0
+2013-09-01T12:00:40.576433 Running on Board (serial code c40000123b9a7601) firmware version 00000003.
+2013-09-01T12:05:22.015850 Binding the receive socket to port 8106 of 0.0.0.0
+2013-09-01T12:05:49.738742 Binding the receive socket to port 8106 of 0.0.0.0
+2013-09-01T12:05:49.739512 Running on Board (serial code c40000123b9a7601) firmware version 00000003.
+2013-09-01T12:05:55.676010 Invalid filename /home/salvo/Scrivania/DEV-PROJ/Target/1-SOFTWARE/2-SNIPER/src/sniperActions.py
+2013-09-01T12:06:20.342340 Socket closed
+2013-09-01T12:06:21.108025 Binding the receive socket to port 8106 of 0.0.0.0
+2013-09-01T12:06:34.116569 Socket closed
+2013-09-01T12:06:35.296496 Binding the receive socket to port 8106 of 0.0.0.0
+2013-09-01T12:07:35.928178 Binding the receive socket to port 8106 of 0.0.0.0
+2013-09-01T12:07:35.991347 openConnecton error: Cannot read a response packet
+2013-09-01T12:07:35.991687 Socket closed
+2013-09-01T12:08:08.895186 Binding the receive socket to port 8106 of 0.0.0.0
+2013-09-01T12:08:08.958186 openConnecton error: Cannot read a response packet
+2013-09-01T12:08:08.958528 Socket closed
+2013-09-01T12:08:13.090115 Binding the receive socket to port 8106 of 0.0.0.0
+2013-09-01T12:08:13.091224 Running on Board (serial code c40000123b9a7601) firmware version 00000003.
+2013-09-01T12:09:36.694900 Binding the receive socket to port 8106 of 0.0.0.0
+2013-09-01T12:09:36.696105 Running on Board (serial code c40000123b9a7601) firmware version 00000003.
+2013-09-01T16:59:52.006947 Binding the receive socket to port 8106 of 0.0.0.0
+2013-09-01T16:59:52.009016 Running on Board (serial code c40000123b9a7601) firmware version 00000003.
+2013-09-01T17:02:34.250083 Binding the receive socket to port 8106 of 0.0.0.0
+2013-09-01T17:02:34.250876 Running on Board (serial code c40000123b9a7601) firmware version 00000003.
+2013-09-01T17:03:03.631030 Binding the receive socket to port 8106 of 0.0.0.0
+2013-09-01T17:03:03.631927 Running on Board (serial code c40000123b9a7601) firmware version 00000003.
+2013-09-01T17:15:10.636446 Binding the receive socket to port 8106 of 0.0.0.0
+2013-09-01T17:15:10.637349 Running on Board (serial code c40000123b9a7601) firmware version 00000003.
+2013-09-01T17:15:45.179658 Binding the receive socket to port 8106 of 0.0.0.0
+2013-09-01T17:15:45.180565 Running on Board (serial code c40000123b9a7601) firmware version 00000003.
+2013-09-01T17:16:59.475689 Binding the receive socket to port 8106 of 0.0.0.0
+2013-09-01T17:16:59.476656 Running on Board (serial code c40000123b9a7601) firmware version 00000003.
+2013-09-01T17:18:16.709729 Binding the receive socket to port 8106 of 0.0.0.0
+2013-09-01T17:18:16.710450 Running on Board (serial code c40000123b9a7601) firmware version 00000003.
+2013-09-01T17:18:30.271497 Binding the receive socket to port 8106 of 0.0.0.0
+2013-09-01T17:18:30.272301 Running on Board (serial code c40000123b9a7601) firmware version 00000003.
+2013-09-01T18:02:34.919069 Binding the receive socket to port 8106 of 0.0.0.0
+2013-09-01T18:02:34.920001 Running on Board (serial code c40000123b9a7601) firmware version 00000003.
+2013-09-01T18:04:48.042161 Binding the receive socket to port 8106 of 0.0.0.0
+2013-09-01T18:04:48.042958 Running on Board (serial code c40000123b9a7601) firmware version 00000003.
+2013-09-01T18:08:39.739012 Binding the receive socket to port 8106 of 0.0.0.0
+2013-09-01T18:08:39.739839 Running on Board (serial code c40000123b9a7601) firmware version 00000003.
+2013-09-01T18:09:46.204405 Binding the receive socket to port 8106 of 0.0.0.0
+2013-09-01T18:09:46.205431 Running on Board (serial code c40000123b9a7601) firmware version 00000003.
+2013-09-01T18:11:29.957305 Binding the receive socket to port 8106 of 0.0.0.0
+2013-09-01T18:11:29.958347 Running on Board (serial code c40000123b9a7601) firmware version 00000003.
+2013-09-01T18:12:55.474422 Binding the receive socket to port 8106 of 0.0.0.0
+2013-09-01T18:12:55.475377 Running on Board (serial code c40000123b9a7601) firmware version 00000003.
+2013-09-01T18:17:23.822698 Binding the receive socket to port 8106 of 0.0.0.0
+2013-09-01T18:17:23.823700 Running on Board (serial code c40000123b9a7601) firmware version 00000003.
+2013-09-01T18:18:17.984472 Binding the receive socket to port 8106 of 0.0.0.0
+2013-09-01T18:18:17.985415 Running on Board (serial code c40000123b9a7601) firmware version 00000003.
+2013-09-01T18:19:12.007547 Binding the receive socket to port 8106 of 0.0.0.0
+2013-09-01T18:19:12.008376 Running on Board (serial code c40000123b9a7601) firmware version 00000003.
+2013-09-01T18:19:55.567545 Binding the receive socket to port 8106 of 0.0.0.0
+2013-09-01T18:19:55.568515 Running on Board (serial code c40000123b9a7601) firmware version 00000003.
+2013-09-01T18:20:23.830483 Binding the receive socket to port 8106 of 0.0.0.0
+2013-09-01T18:20:23.831373 Running on Board (serial code c40000123b9a7601) firmware version 00000003.
+2013-09-01T18:20:48.151780 Binding the receive socket to port 8106 of 0.0.0.0
+2013-09-01T18:20:48.152684 Running on Board (serial code c40000123b9a7601) firmware version 00000003.
+2013-09-01T18:26:53.027838 Binding the receive socket to port 8106 of 0.0.0.0
+2013-09-01T18:26:53.028833 Running on Board (serial code c40000123b9a7601) firmware version 00000003.
+2013-09-01T18:35:26.281040 Binding the receive socket to port 8106 of 0.0.0.0
+2013-09-01T18:35:26.281939 Running on Board (serial code c40000123b9a7601) firmware version 00000003.
+2013-09-01T18:35:44.174085 Binding the receive socket to port 8106 of 0.0.0.0
+2013-09-01T18:35:44.174895 Running on Board (serial code c40000123b9a7601) firmware version 00000003.
+2013-09-01T18:36:26.291411 Binding the receive socket to port 8106 of 0.0.0.0
+2013-09-01T18:36:26.292327 Running on Board (serial code c40000123b9a7601) firmware version 00000003.
+2013-09-01T18:37:17.264062 Binding the receive socket to port 8106 of 0.0.0.0
+2013-09-01T18:37:17.264889 Running on Board (serial code c40000123b9a7601) firmware version 00000003.
+2013-09-01T18:41:53.990097 Binding the receive socket to port 8106 of 0.0.0.0
+2013-09-01T18:41:53.991084 Running on Board (serial code c40000123b9a7601) firmware version 00000003.
+2013-09-01T18:42:46.407268 Binding the receive socket to port 8106 of 0.0.0.0
+2013-09-01T18:42:46.408093 Running on Board (serial code c40000123b9a7601) firmware version 00000003.
+2013-09-01T18:43:27.533344 Binding the receive socket to port 8106 of 0.0.0.0
+2013-09-01T18:43:27.534177 Running on Board (serial code c40000123b9a7601) firmware version 00000003.
+2013-09-01T18:47:30.011639 Binding the receive socket to port 8106 of 0.0.0.0
+2013-09-01T18:47:30.012872 Running on Board (serial code c40000123b9a7601) firmware version 00000003.
+2013-09-01T18:52:20.204116 Socket closed
+2013-09-01T19:08:59.015091 Binding the receive socket to port 8106 of 0.0.0.0
+2013-09-01T19:08:59.015952 Running on Board (serial code c40000123b9a7601) firmware version 00000003.
+2013-09-01T19:09:06.192863 openConnecton error: int() can't convert non-string with explicit base
+2013-09-01T19:09:35.349803 Socket closed
+2013-09-01T19:10:24.725968 Binding the receive socket to port 8106 of 0.0.0.0
+2013-09-01T19:10:24.726838 Running on Board (serial code c40000123b9a7601) firmware version 00000003.
+2013-09-01T19:10:30.029246 sendConfig Error int() can't convert non-string with explicit base
+2013-09-01T19:10:49.903884 sendConfig Error int() can't convert non-string with explicit base
+2013-09-01T19:11:17.426665 Binding the receive socket to port 8106 of 0.0.0.0
+2013-09-01T19:11:17.427429 Running on Board (serial code c40000123b9a7601) firmware version 00000003.
+2013-09-01T19:11:28.719031 sendConfig Error int() can't convert non-string with explicit base
+2013-09-01T19:14:12.562329 Binding the receive socket to port 8106 of 0.0.0.0
+2013-09-01T19:14:12.563466 Running on Board (serial code c40000123b9a7601) firmware version 00000003.
+2013-09-01T19:15:45.285169 Binding the receive socket to port 8106 of 0.0.0.0
+2013-09-01T19:15:45.285979 Running on Board (serial code c40000123b9a7601) firmware version 00000003.
+2013-09-01T19:18:19.424265 Binding the receive socket to port 8106 of 0.0.0.0
+2013-09-01T19:18:19.425067 Running on Board (serial code c40000123b9a7601) firmware version 00000003.
+2013-09-01T19:18:23.004370 0xff
+2013-09-01T19:18:23.004741 
+
+2013-09-01T19:22:00.056598 Binding the receive socket to port 8106 of 0.0.0.0
+2013-09-01T19:22:00.057422 Running on Board (serial code c40000123b9a7601) firmware version 00000003.
+2013-09-01T19:22:04.492234 0xff
+2013-09-01T19:22:04.492599 
+
+2013-09-01T19:41:26.989979 Binding the receive socket to port 8106 of 0.0.0.0
+2013-09-01T19:41:26.990788 Running on Board (serial code c40000123b9a7601) firmware version 00000003.
+2013-09-01T19:42:39.460164 Binding the receive socket to port 8106 of 0.0.0.0
+2013-09-01T19:42:39.461075 Running on Board (serial code c40000123b9a7601) firmware version 00000003.
+2013-09-01T19:44:51.213104 Binding the receive socket to port 8106 of 0.0.0.0
+2013-09-01T19:44:51.214092 Running on Board (serial code c40000123b9a7601) firmware version 00000003.
+2013-09-01T20:04:48.687847 Binding the receive socket to port 8106 of 0.0.0.0
+2013-09-01T20:04:48.688760 Running on Board (serial code c40000123b9a7601) firmware version 00000003.
+2013-09-01T20:04:52.196239 0xff
+2013-09-01T20:04:52.196611 
+
+2013-09-01T20:07:42.380993 Binding the receive socket to port 8106 of 0.0.0.0
+2013-09-01T20:07:42.381865 Running on Board (serial code c40000123b9a7601) firmware version 00000003.
+2013-09-01T20:13:39.250240 Binding the receive socket to port 8106 of 0.0.0.0
+2013-09-01T20:13:39.251146 Running on Board (serial code c40000123b9a7601) firmware version 00000003.
+2013-09-01T20:15:34.550071 Binding the receive socket to port 8106 of 0.0.0.0
+2013-09-01T20:15:34.550902 Running on Board (serial code c40000123b9a7601) firmware version 00000003.
+2013-09-01T20:15:54.381375 Binding the receive socket to port 8106 of 0.0.0.0
+2013-09-01T20:15:54.382277 Running on Board (serial code c40000123b9a7601) firmware version 00000003.
+2013-09-01T20:20:15.189297 Binding the receive socket to port 8106 of 0.0.0.0
+2013-09-01T20:20:15.190036 Running on Board (serial code c40000123b9a7601) firmware version 00000003.
+2013-09-01T20:20:21.408215 sendConfig Error in method 'BaseInterface_WriteRegister', argument 2 of type 'UChar_t'
+2013-09-01T20:20:59.969525 Binding the receive socket to port 8106 of 0.0.0.0
+2013-09-01T20:20:59.970327 Running on Board (serial code c40000123b9a7601) firmware version 00000003.
+2013-09-01T20:21:15.331650 Binding the receive socket to port 8106 of 0.0.0.0
+2013-09-01T20:21:15.332504 Running on Board (serial code c40000123b9a7601) firmware version 00000003.
+2013-09-01T20:21:30.605266 Binding the receive socket to port 8106 of 0.0.0.0
+2013-09-01T20:21:30.605978 Running on Board (serial code c40000123b9a7601) firmware version 00000003.
+2013-09-01T20:21:50.214165 Binding the receive socket to port 8106 of 0.0.0.0
+2013-09-01T20:21:50.215003 Running on Board (serial code c40000123b9a7601) firmware version 00000003.
+2013-09-01T20:22:15.766394 Binding the receive socket to port 8106 of 0.0.0.0
+2013-09-01T20:22:15.767100 Running on Board (serial code c40000123b9a7601) firmware version 00000003.
+2013-09-01T20:22:30.819216 Binding the receive socket to port 8106 of 0.0.0.0
+2013-09-01T20:22:30.819919 Running on Board (serial code c40000123b9a7601) firmware version 00000003.
+2013-09-01T20:22:55.185275 Binding the receive socket to port 8106 of 0.0.0.0
+2013-09-01T20:22:55.186026 Running on Board (serial code c40000123b9a7601) firmware version 00000003.
+2013-09-01T20:49:14.030617 Binding the receive socket to port 8106 of 0.0.0.0
+2013-09-01T20:49:14.031418 Running on Board (serial code c40000123b9a7601) firmware version 00000003.
+2013-09-01T20:49:25.820888 sendConfig Error 
+2013-09-01T21:02:28.422702 Binding the receive socket to port 8106 of 0.0.0.0
+2013-09-01T21:02:28.423456 Running on Board (serial code c40000123b9a7601) firmware version 00000003.
+2013-09-01T21:02:33.184493 sendConfig Error in method 'BaseInterface_WriteRegister', argument 2 of type 'UChar_t'
+2013-09-01T21:03:59.387788 Binding the receive socket to port 8106 of 0.0.0.0
+2013-09-01T21:03:59.388675 Running on Board (serial code c40000123b9a7601) firmware version 00000003.
+2013-09-01T21:04:02.848789 sendConfig Error in method 'BaseInterface_WriteRegister', argument 2 of type 'UChar_t'
+2013-09-01T21:05:19.527498 sendConfig Error in method 'BaseInterface_WriteRegister', argument 2 of type 'UChar_t'
+2013-09-01T21:06:08.007567 sendConfig Error in method 'BaseInterface_WriteRegister', argument 2 of type 'UChar_t'
+2013-09-01T21:06:42.968562 sendConfig Error in method 'BaseInterface_WriteRegister', argument 2 of type 'UChar_t'
+2013-09-01T21:06:51.574608 sendConfig Error in method 'BaseInterface_WriteRegister', argument 2 of type 'UChar_t'
+2013-09-01T21:07:28.117777 Binding the receive socket to port 8106 of 0.0.0.0
+2013-09-01T21:07:28.118952 Running on Board (serial code c40000123b9a7601) firmware version 00000003.
+2013-09-01T21:09:36.553742 Binding the receive socket to port 8106 of 0.0.0.0
+2013-09-01T21:09:36.554912 Running on Board (serial code c40000123b9a7601) firmware version 00000003.
+2013-09-04T16:33:32.689455 Binding the receive socket to port 8106 of 0.0.0.0
+2013-09-04T16:33:32.692392 Running on Board (serial code c40000123b9a7601) firmware version 00000003.
+2013-09-04T16:33:47.747598 Invalid filename 
+2013-09-04T17:47:12.168292 Socket closed
+2013-09-04T17:47:12.983071 Binding the receive socket to port 8106 of 0.0.0.0
+2013-09-04T17:47:12.983708 Running on Board (serial code c40000123b9a7601) firmware version 00000003.
+2013-09-11T16:54:36.386962 Binding the receive socket to port 8106 of 0.0.0.0
+2013-09-11T16:54:36.388199 Running on Board (serial code 3b9a7601c4000012) firmware version 00000000.
